@@ -1,0 +1,18 @@
+{
+  "run_id": 2,
+  "started_at": "2026-10-26T17:21:54.499892+00:00",
+  "downloaded": 0,
+  "skipped": 1,
+  "failed": 0,
+  "sample_run": true,
+  "items": [
+    {
+      "dataset_id": "48nr-hqxx",
+      "status": "skipped",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility"
+    }
+  ],
+  "discovered_csv_distributions": 75,
+  "status": "success",
+  "finished_at": "2026-10-26T17:21:58.714300+00:00"
+}

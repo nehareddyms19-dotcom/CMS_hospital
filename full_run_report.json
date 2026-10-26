@@ -1,0 +1,6097 @@
+{
+  "run_id": 1,
+  "started_at": "2026-10-26T17:22:06.199314+00:00",
+  "downloaded": 75,
+  "skipped": 0,
+  "failed": 0,
+  "sample_run": false,
+  "items": [
+    {
+      "dataset_id": "x663-bwbj",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f086b4b7fc9d628f08e70ade47dff3c5_1785189946/ASCQR_OAS_CAHPS_STATE.csv",
+      "rows": 56,
+      "columns": 22,
+      "sha256": "fa6e9e8dc2739f6dde856dcf050363b34aee730df5a2cae2a3dfbcdf7f1401ec",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/x663_bwbj_11c6ada3551a.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Patients who reported that staff definitely gave care in a professional way and the facility was clean",
+          "patients_who_reported_that_staff_definitely_gave_care_in_a_professional_way_and_the_facility_was_clean"
+        ],
+        [
+          "Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean",
+          "patients_who_reported_that_staff_somewhat_gave_care_in_a_professional_way_or_the_facility_was_somewhat_clean"
+        ],
+        [
+          "Patients who reported that staff did not give care in a professional way or the facility was not clean",
+          "patients_who_reported_that_staff_did_not_give_care_in_a_professional_way_or_the_facility_was_not_clean"
+        ],
+        [
+          "Facilities and staff linear mean score",
+          "facilities_and_staff_linear_mean_score"
+        ],
+        [
+          "Patients who reported that staff definitely communicated about what to expect during and after the procedure",
+          "patients_who_reported_that_staff_definitely_communicated_about_what_to_expect_during_and_after_the_procedure"
+        ],
+        [
+          "Patients who reported that staff somewhat communicated about what to expect during and after the procedure",
+          "patients_who_reported_that_staff_somewhat_communicated_about_what_to_expect_during_and_after_the_procedure"
+        ],
+        [
+          "Patients who reported that staff did not communicate about what to expect during and after the procedure",
+          "patients_who_reported_that_staff_did_not_communicate_about_what_to_expect_during_and_after_the_procedure"
+        ],
+        [
+          "Communication about your procedure linear mean score",
+          "communication_about_your_procedure_linear_mean_score"
+        ],
+        [
+          "Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)",
+          "patients_who_gave_the_facility_a_rating_of_9_or_10_on_a_scale_from_0_lowest_to_10_highest"
+        ],
+        [
+          "Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)",
+          "patients_who_gave_the_facility_a_rating_of_7_or_8_on_a_scale_from_0_lowest_to_10_highest"
+        ],
+        [
+          "Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest)",
+          "patients_who_gave_the_facility_a_rating_of_0_to_6_on_a_scale_from_0_lowest_to_10_highest"
+        ],
+        [
+          "Patients' rating of the facility linear mean score",
+          "patients_rating_of_the_facility_linear_mean_score"
+        ],
+        [
+          "Patients who reported YES they would DEFINITELY recommend the facility to family or friends",
+          "patients_who_reported_yes_they_would_definitely_recommend_the_facility_to_family_or_friends"
+        ],
+        [
+          "Patients who reported PROBABLY YES they would recommend the facility to family or friends",
+          "patients_who_reported_probably_yes_they_would_recommend_the_facility_to_family_or_friends"
+        ],
+        [
+          "Patients who reported NO, they would not recommend the facility to family or friends",
+          "patients_who_reported_no_they_would_not_recommend_the_facility_to_family_or_friends"
+        ],
+        [
+          "Patients recommending the facility linear mean score",
+          "patients_recommending_the_facility_linear_mean_score"
+        ],
+        [
+          "Number of Sampled Patients",
+          "number_of_sampled_patients"
+        ],
+        [
+          "Number of Completed Surveys",
+          "number_of_completed_surveys"
+        ],
+        [
+          "Survey Response Rate Percent",
+          "survey_response_rate_percent"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "wue8-3vwe",
+      "title": "Ambulatory Surgical Center Quality Measures - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/43dcc3212bfab34ac186ac2e19196b09_1770163554/ASC_National.csv",
+      "rows": 1,
+      "columns": 37,
+      "sha256": "67672f28a4945ee15a870e50ab744391b8dbe0f4c0d686b59f9dd0c3c03108b3",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/wue8_3vwe_0ba759724d0c.csv",
+      "header_mapping": [
+        [
+          "Year",
+          "year"
+        ],
+        [
+          "Avg ASC-1 Nat Rate*",
+          "avg_asc_1_nat_rate"
+        ],
+        [
+          "Median ASC-1 Nat Rate*",
+          "median_asc_1_nat_rate"
+        ],
+        [
+          "Avg ASC-2 Nat Rate*",
+          "avg_asc_2_nat_rate"
+        ],
+        [
+          "Median ASC-2 Nat Rate*",
+          "median_asc_2_nat_rate"
+        ],
+        [
+          "Avg ASC-3 Nat Rate*",
+          "avg_asc_3_nat_rate"
+        ],
+        [
+          "Median ASC-3 Nat Rate*",
+          "median_asc_3_nat_rate"
+        ],
+        [
+          "Avg ASC-4 Nat Rate*",
+          "avg_asc_4_nat_rate"
+        ],
+        [
+          "Median ASC-4 Nat Rate*",
+          "median_asc_4_nat_rate"
+        ],
+        [
+          "Avg ASC-9 Nat Rate*",
+          "avg_asc_9_nat_rate"
+        ],
+        [
+          "Median ASC-9 Nat Rate*",
+          "median_asc_9_nat_rate"
+        ],
+        [
+          "Avg ASC-11 Nat Rate*",
+          "avg_asc_11_nat_rate"
+        ],
+        [
+          "Median ASC-11 Nat Rate*",
+          "median_asc_11_nat_rate"
+        ],
+        [
+          "ASC-12 Nat Rate",
+          "asc_12_nat_rate"
+        ],
+        [
+          "ASC-12 Better",
+          "asc_12_better"
+        ],
+        [
+          "ASC-12 No Different",
+          "asc_12_no_different"
+        ],
+        [
+          "ASC-12 Worse",
+          "asc_12_worse"
+        ],
+        [
+          "ASC-12 Too Small",
+          "asc_12_too_small"
+        ],
+        [
+          "Avg ASC-13 Nat Rate*",
+          "avg_asc_13_nat_rate"
+        ],
+        [
+          "Median ASC-13 Nat Rate*",
+          "median_asc_13_nat_rate"
+        ],
+        [
+          "Avg ASC-14 Nat Rate*",
+          "avg_asc_14_nat_rate"
+        ],
+        [
+          "Median ASC-14 Nat Rate*",
+          "median_asc_14_nat_rate"
+        ],
+        [
+          "ASC-17 Nat Rate",
+          "asc_17_nat_rate"
+        ],
+        [
+          "ASC-17 Better",
+          "asc_17_better"
+        ],
+        [
+          "ASC-17 No Different",
+          "asc_17_no_different"
+        ],
+        [
+          "ASC-17 Worse",
+          "asc_17_worse"
+        ],
+        [
+          "ASC-17 Too Small",
+          "asc_17_too_small"
+        ],
+        [
+          "ASC-18 Nat Rate",
+          "asc_18_nat_rate"
+        ],
+        [
+          "ASC-18 Better",
+          "asc_18_better"
+        ],
+        [
+          "ASC-18 No Different",
+          "asc_18_no_different"
+        ],
+        [
+          "ASC-18 Worse",
+          "asc_18_worse"
+        ],
+        [
+          "ASC-18 Too Small",
+          "asc_18_too_small"
+        ],
+        [
+          "ASC-19 Nat Rate",
+          "asc_19_nat_rate"
+        ],
+        [
+          "ASC-19 Better",
+          "asc_19_better"
+        ],
+        [
+          "ASC-19 No Different",
+          "asc_19_no_different"
+        ],
+        [
+          "ASC-19 Worse",
+          "asc_19_worse"
+        ],
+        [
+          "ASC-19 Too Small",
+          "asc_19_too_small"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "axe7-s95e",
+      "title": "Ambulatory Surgical Center Quality Measures - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d3aea2dfaeae85c44017441b184aeb6d_1770163558/ASC_State.csv",
+      "rows": 54,
+      "columns": 34,
+      "sha256": "15c8b41eb60141f54f6b1d3a38be121e91c3267f3447fb4075770e56ff2d3fbb",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/axe7_s95e_4b35b75a794b.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Year",
+          "year"
+        ],
+        [
+          "Avg ASC-1 State Rate*",
+          "avg_asc_1_state_rate"
+        ],
+        [
+          "Median ASC-1 State Rate*",
+          "median_asc_1_state_rate"
+        ],
+        [
+          "Avg ASC-2 State Rate*",
+          "avg_asc_2_state_rate"
+        ],
+        [
+          "Median ASC-2 State Rate*",
+          "median_asc_2_state_rate"
+        ],
+        [
+          "Avg ASC-3 State Rate*",
+          "avg_asc_3_state_rate"
+        ],
+        [
+          "Median ASC-3 State Rate*",
+          "median_asc_3_state_rate"
+        ],
+        [
+          "Avg ASC-4 State Rate*",
+          "avg_asc_4_state_rate"
+        ],
+        [
+          "Median ASC-4 State Rate*",
+          "median_asc_4_state_rate"
+        ],
+        [
+          "Avg ASC-9 State Rate*",
+          "avg_asc_9_state_rate"
+        ],
+        [
+          "Median ASC-9 State Rate*",
+          "median_asc_9_state_rate"
+        ],
+        [
+          "Avg ASC-11 State Rate*",
+          "avg_asc_11_state_rate"
+        ],
+        [
+          "Median ASC-11 State Rate*",
+          "median_asc_11_state_rate"
+        ],
+        [
+          "ASC-12 Better",
+          "asc_12_better"
+        ],
+        [
+          "ASC-12 No Different",
+          "asc_12_no_different"
+        ],
+        [
+          "ASC-12 Worse",
+          "asc_12_worse"
+        ],
+        [
+          "ASC-12 Too Small",
+          "asc_12_too_small"
+        ],
+        [
+          "Avg ASC-13 State Rate*",
+          "avg_asc_13_state_rate"
+        ],
+        [
+          "Median ASC-13 State Rate*",
+          "median_asc_13_state_rate"
+        ],
+        [
+          "Avg ASC-14 State Rate*",
+          "avg_asc_14_state_rate"
+        ],
+        [
+          "Median ASC-14 State Rate*",
+          "median_asc_14_state_rate"
+        ],
+        [
+          "ASC-17 Better",
+          "asc_17_better"
+        ],
+        [
+          "ASC-17 No Different",
+          "asc_17_no_different"
+        ],
+        [
+          "ASC-17 Worse",
+          "asc_17_worse"
+        ],
+        [
+          "ASC-17 Too Small",
+          "asc_17_too_small"
+        ],
+        [
+          "ASC-18 Better",
+          "asc_18_better"
+        ],
+        [
+          "ASC-18 No Different",
+          "asc_18_no_different"
+        ],
+        [
+          "ASC-18 Worse",
+          "asc_18_worse"
+        ],
+        [
+          "ASC-18 Too Small",
+          "asc_18_too_small"
+        ],
+        [
+          "ASC-19 Better",
+          "asc_19_better"
+        ],
+        [
+          "ASC-19 No Different",
+          "asc_19_no_different"
+        ],
+        [
+          "ASC-19 Worse",
+          "asc_19_worse"
+        ],
+        [
+          "ASC-19 Too Small",
+          "asc_19_too_small"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "tf3h-mrrs",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/65a38069cc48376e9f519a3609424537_1785189945/ASCQR_OAS_CAHPS_NATIONAL.csv",
+      "rows": 1,
+      "columns": 21,
+      "sha256": "d52d321b2f1d77838d0cca3c39183c4fd3a5ff4088b046a72b1c04a7e0fff67b",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/tf3h_mrrs_6de92bff230a.csv",
+      "header_mapping": [
+        [
+          "Patients who reported that staff definitely gave care in a professional way and the facility was clean",
+          "patients_who_reported_that_staff_definitely_gave_care_in_a_professional_way_and_the_facility_was_clean"
+        ],
+        [
+          "Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean",
+          "patients_who_reported_that_staff_somewhat_gave_care_in_a_professional_way_or_the_facility_was_somewhat_clean"
+        ],
+        [
+          "Patients who reported that staff did not give care in a professional way or the facility was not clean",
+          "patients_who_reported_that_staff_did_not_give_care_in_a_professional_way_or_the_facility_was_not_clean"
+        ],
+        [
+          "Facilities and staff linear mean score",
+          "facilities_and_staff_linear_mean_score"
+        ],
+        [
+          "Patients who reported that staff definitely communicated about what to expect during and after the procedure",
+          "patients_who_reported_that_staff_definitely_communicated_about_what_to_expect_during_and_after_the_procedure"
+        ],
+        [
+          "Patients who reported that staff somewhat communicated about what to expect during and after the procedure",
+          "patients_who_reported_that_staff_somewhat_communicated_about_what_to_expect_during_and_after_the_procedure"
+        ],
+        [
+          "Patients who reported that staff did not communicate about what to expect during and after the procedure",
+          "patients_who_reported_that_staff_did_not_communicate_about_what_to_expect_during_and_after_the_procedure"
+        ],
+        [
+          "Communication about your procedure linear mean score",
+          "communication_about_your_procedure_linear_mean_score"
+        ],
+        [
+          "Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)",
+          "patients_who_gave_the_facility_a_rating_of_9_or_10_on_a_scale_from_0_lowest_to_10_highest"
+        ],
+        [
+          "Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)",
+          "patients_who_gave_the_facility_a_rating_of_7_or_8_on_a_scale_from_0_lowest_to_10_highest"
+        ],
+        [
+          "Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest)",
+          "patients_who_gave_the_facility_a_rating_of_0_to_6_on_a_scale_from_0_lowest_to_10_highest"
+        ],
+        [
+          "Patients' rating of the facility linear mean score",
+          "patients_rating_of_the_facility_linear_mean_score"
+        ],
+        [
+          "Patients who reported YES they would DEFINITELY recommend the facility to family or friends",
+          "patients_who_reported_yes_they_would_definitely_recommend_the_facility_to_family_or_friends"
+        ],
+        [
+          "Patients who reported PROBABLY YES they would recommend the facility to family or friends",
+          "patients_who_reported_probably_yes_they_would_recommend_the_facility_to_family_or_friends"
+        ],
+        [
+          "Patients who reported NO, they would not recommend the facility to family or friends",
+          "patients_who_reported_no_they_would_not_recommend_the_facility_to_family_or_friends"
+        ],
+        [
+          "Patients recommending the facility linear mean score",
+          "patients_recommending_the_facility_linear_mean_score"
+        ],
+        [
+          "Number of Sampled Patients",
+          "number_of_sampled_patients"
+        ],
+        [
+          "Number of Completed Surveys",
+          "number_of_completed_surveys"
+        ],
+        [
+          "Survey Response Rate Percent",
+          "survey_response_rate_percent"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "48nr-hqxx",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/8392b7d74209bb3dc54ff1b09635e733_1785189943/ASCQR_OAS_CAHPS_BY_ASC.csv",
+      "rows": 4744,
+      "columns": 30,
+      "sha256": "e8fc7e6b041217cae6a4f369806560981205a83b75190fae71d95120a4b5de85",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/48nr_hqxx_a0ba2c2c22a0.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Patients who reported that staff definitely gave care in a professional way and the facility was clean",
+          "patients_who_reported_that_staff_definitely_gave_care_in_a_professional_way_and_the_facility_was_clean"
+        ],
+        [
+          "Patients who reported that staff somewhat gave care in a professional way or the facility was somewhat clean",
+          "patients_who_reported_that_staff_somewhat_gave_care_in_a_professional_way_or_the_facility_was_somewhat_clean"
+        ],
+        [
+          "Patients who reported that staff did not give care in a professional way or the facility was not clean",
+          "patients_who_reported_that_staff_did_not_give_care_in_a_professional_way_or_the_facility_was_not_clean"
+        ],
+        [
+          "Facilities and staff linear mean score",
+          "facilities_and_staff_linear_mean_score"
+        ],
+        [
+          "Patients who reported that staff definitely communicated about what to expect during and after the procedure",
+          "patients_who_reported_that_staff_definitely_communicated_about_what_to_expect_during_and_after_the_procedure"
+        ],
+        [
+          "Patients who reported that staff somewhat communicated about what to expect during and after the procedure",
+          "patients_who_reported_that_staff_somewhat_communicated_about_what_to_expect_during_and_after_the_procedure"
+        ],
+        [
+          "Patients who reported that staff did not communicate about what to expect during and after the procedure",
+          "patients_who_reported_that_staff_did_not_communicate_about_what_to_expect_during_and_after_the_procedure"
+        ],
+        [
+          "Communication about your procedure linear mean score",
+          "communication_about_your_procedure_linear_mean_score"
+        ],
+        [
+          "Patients who gave the facility a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest)",
+          "patients_who_gave_the_facility_a_rating_of_9_or_10_on_a_scale_from_0_lowest_to_10_highest"
+        ],
+        [
+          "Patients who gave the facility a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest)",
+          "patients_who_gave_the_facility_a_rating_of_7_or_8_on_a_scale_from_0_lowest_to_10_highest"
+        ],
+        [
+          "Patients who gave the facility a rating of 0 to 6 on a scale from 0 (lowest) to 10 (highest)",
+          "patients_who_gave_the_facility_a_rating_of_0_to_6_on_a_scale_from_0_lowest_to_10_highest"
+        ],
+        [
+          "Patients' rating of the facility linear mean score",
+          "patients_rating_of_the_facility_linear_mean_score"
+        ],
+        [
+          "Patients who reported YES they would DEFINITELY recommend the facility to family or friends",
+          "patients_who_reported_yes_they_would_definitely_recommend_the_facility_to_family_or_friends"
+        ],
+        [
+          "Patients who reported PROBABLY YES they would recommend the facility to family or friends",
+          "patients_who_reported_probably_yes_they_would_recommend_the_facility_to_family_or_friends"
+        ],
+        [
+          "Patients who reported NO, they would not recommend the facility to family or friends",
+          "patients_who_reported_no_they_would_not_recommend_the_facility_to_family_or_friends"
+        ],
+        [
+          "Patients recommending the facility linear mean score",
+          "patients_recommending_the_facility_linear_mean_score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Number of Sampled Patients",
+          "number_of_sampled_patients"
+        ],
+        [
+          "Number of Completed Surveys",
+          "number_of_completed_surveys"
+        ],
+        [
+          "Survey Response Rate Percent",
+          "survey_response_rate_percent"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "4jcv-atw7",
+      "title": "Ambulatory Surgical Center Quality Measures - Facility",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/dd03994fc93e296bb0297f1cd43cc987_1770163552/ASC_Facility.csv",
+      "rows": 5711,
+      "columns": 47,
+      "sha256": "7166af40161e372b79c20757cfc84fcee44b5d5b1448080750ae0265f9c91624",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/4jcv_atw7_49963d3811fa.csv",
+      "header_mapping": [
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "NPI",
+          "npi"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "Year",
+          "year"
+        ],
+        [
+          "ASC-1 Rate*",
+          "asc_1_rate"
+        ],
+        [
+          "ASC-1 Footnote",
+          "asc_1_footnote"
+        ],
+        [
+          "ASC-2 Rate*",
+          "asc_2_rate"
+        ],
+        [
+          "ASC-2 Footnote",
+          "asc_2_footnote"
+        ],
+        [
+          "ASC-3 Rate*",
+          "asc_3_rate"
+        ],
+        [
+          "ASC-3 Footnote",
+          "asc_3_footnote"
+        ],
+        [
+          "ASC-4 Rate*",
+          "asc_4_rate"
+        ],
+        [
+          "ASC-4 Footnote",
+          "asc_4_footnote"
+        ],
+        [
+          "ASC-9 Rate*",
+          "asc_9_rate"
+        ],
+        [
+          "ASC-9 Footnote",
+          "asc_9_footnote"
+        ],
+        [
+          "ASC-11 Rate*",
+          "asc_11_rate"
+        ],
+        [
+          "ASC-11 Footnote",
+          "asc_11_footnote"
+        ],
+        [
+          "ASC-12 Total Cases",
+          "asc_12_total_cases"
+        ],
+        [
+          "ASC-12 Performance Category",
+          "asc_12_performance_category"
+        ],
+        [
+          "ASC-12 RSHV Rate",
+          "asc_12_rshv_rate"
+        ],
+        [
+          "ASC-12 Interval Lower Limit",
+          "asc_12_interval_lower_limit"
+        ],
+        [
+          "ASC-12 Interval Upper Limit",
+          "asc_12_interval_upper_limit"
+        ],
+        [
+          "ASC-12 Footnote",
+          "asc_12_footnote"
+        ],
+        [
+          "ASC-13 Rate*",
+          "asc_13_rate"
+        ],
+        [
+          "ASC-13 Footnote",
+          "asc_13_footnote"
+        ],
+        [
+          "ASC-14 Rate*",
+          "asc_14_rate"
+        ],
+        [
+          "ASC-14 Footnote",
+          "asc_14_footnote"
+        ],
+        [
+          "ASC-17 Total Cases",
+          "asc_17_total_cases"
+        ],
+        [
+          "ASC-17 Performance Category",
+          "asc_17_performance_category"
+        ],
+        [
+          "ASC-17 RSHV Rate",
+          "asc_17_rshv_rate"
+        ],
+        [
+          "ASC-17 Interval Lower Limit",
+          "asc_17_interval_lower_limit"
+        ],
+        [
+          "ASC-17 Interval Upper Limit",
+          "asc_17_interval_upper_limit"
+        ],
+        [
+          "ASC-17 Footnote",
+          "asc_17_footnote"
+        ],
+        [
+          "ASC-18 Total Cases",
+          "asc_18_total_cases"
+        ],
+        [
+          "ASC-18 Performance Category",
+          "asc_18_performance_category"
+        ],
+        [
+          "ASC-18 RSHV Rate",
+          "asc_18_rshv_rate"
+        ],
+        [
+          "ASC-18 Interval Lower Limit",
+          "asc_18_interval_lower_limit"
+        ],
+        [
+          "ASC-18 Interval Upper Limit",
+          "asc_18_interval_upper_limit"
+        ],
+        [
+          "ASC-18 Footnote",
+          "asc_18_footnote"
+        ],
+        [
+          "ASC-19 Total Cases",
+          "asc_19_total_cases"
+        ],
+        [
+          "ASC-19 Performance Category",
+          "asc_19_performance_category"
+        ],
+        [
+          "ASC-19 RSHV Rate",
+          "asc_19_rshv_rate"
+        ],
+        [
+          "ASC-19 Interval Lower Limit",
+          "asc_19_interval_lower_limit"
+        ],
+        [
+          "ASC-19 Interval Upper Limit",
+          "asc_19_interval_upper_limit"
+        ],
+        [
+          "ASC-19 Footnote",
+          "asc_19_footnote"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "qqw3-t4ie",
+      "title": "Complications and Deaths - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/aba37eca11edcd4272afff9e6dc78bda_1790013957/Complications_and_Deaths-National.csv",
+      "rows": 20,
+      "columns": 10,
+      "sha256": "dfd7bfc959ee1a0de51f1d44332b61f944300ed1ce9e5fe5d0cdf2ccf66bc940",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/qqw3_t4ie_d6a1807a5f27.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "National Rate",
+          "national_rate"
+        ],
+        [
+          "Number of Hospitals Worse",
+          "number_of_hospitals_worse"
+        ],
+        [
+          "Number of Hospitals Same",
+          "number_of_hospitals_same"
+        ],
+        [
+          "Number of Hospitals Better",
+          "number_of_hospitals_better"
+        ],
+        [
+          "Number of Hospitals Too Few",
+          "number_of_hospitals_too_few"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "y9us-9xdf",
+      "title": "Footnote Crosswalk",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f29bb7c812e242f6edfef0a4b7d0eaca_1760630713/Footnote_Crosswalk.csv",
+      "rows": 32,
+      "columns": 2,
+      "sha256": "2f7f2e185e8176bc4449fefaa82265c113332241c4190dc954617e7b1d913aa6",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/y9us_9xdf_66ae5fd70099.csv",
+      "header_mapping": [
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Footnote Text",
+          "footnote_text"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "bs2r-24vh",
+      "title": "Complications and Deaths - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/247bb4364e310313773d74ccb0fb3231_1790013957/Complications_and_Deaths-State.csv",
+      "rows": 1120,
+      "columns": 10,
+      "sha256": "7aa1d7cfd41ffba316e8411ad1acec6f0b547b6f4de1f382779b59fc8b637aea",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/bs2r_24vh_89747e5caa99.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Number of Hospitals Worse",
+          "number_of_hospitals_worse"
+        ],
+        [
+          "Number of Hospitals Same",
+          "number_of_hospitals_same"
+        ],
+        [
+          "Number of Hospitals Better",
+          "number_of_hospitals_better"
+        ],
+        [
+          "Number of Hospitals Too Few",
+          "number_of_hospitals_too_few"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "tqkv-mgxq",
+      "title": "Comprehensive Care For Joint Replacement Model - Provider Data",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/c1017e56164f4774560619c9020116fa_1770163562/CJR_Quality_Reporting_January_2026_Production_File.csv",
+      "rows": 320,
+      "columns": 18,
+      "sha256": "819423d6df9bb8a6909e16eadd9f4b22fed915f7418a5b898cb9c06f3d52dffb",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/tqkv_mgxq_57b585d7c0cb.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "MSA",
+          "msa"
+        ],
+        [
+          "MSA Title",
+          "msa_title"
+        ],
+        [
+          "HCAHPS HLMR",
+          "hcahps_hlmr"
+        ],
+        [
+          "HCAHPS HLMR Percentile",
+          "hcahps_hlmr_percentile"
+        ],
+        [
+          "HCAHPS Start Date",
+          "hcahps_start_date"
+        ],
+        [
+          "HCAHPS End Date",
+          "hcahps_end_date"
+        ],
+        [
+          "HCAHPS Footnote",
+          "hcahps_footnote"
+        ],
+        [
+          "COMP-HIP-KNEE",
+          "comp_hip_knee"
+        ],
+        [
+          "COMP-HIP-KNEE Percentile",
+          "comp_hip_knee_percentile"
+        ],
+        [
+          "COMP Start Date",
+          "comp_start_date"
+        ],
+        [
+          "COMP End Date",
+          "comp_end_date"
+        ],
+        [
+          "COMP Footnote",
+          "comp_footnote"
+        ],
+        [
+          "PRO",
+          "pro"
+        ],
+        [
+          "PRO Start Date",
+          "pro_start_date"
+        ],
+        [
+          "PRO End Date",
+          "pro_end_date"
+        ],
+        [
+          "Reconciliation Footnote",
+          "reconciliation_footnote"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "muwa-iene",
+      "title": "CMS Medicare PSI-90 and component measures - six-digit estimate dataset",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/84bd78c1b4e386185bcef2af963d8cf9_1785189947/CMS_PSI_6_decimal_file.csv",
+      "rows": 52338,
+      "columns": 13,
+      "sha256": "2e658c9d16a8dd34b9799688ab6df4a9e3884aec35bf7c10130a85ded2af38a4",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/muwa_iene_fa040b333a80.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Rate",
+          "rate"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "ynj2-r877",
+      "title": "Complications and Deaths - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6af7c44d77436e5a1caac3ce39a83fe9_1790013956/Complications_and_Deaths-Hospital.csv",
+      "rows": 95800,
+      "columns": 18,
+      "sha256": "b5d80f62beffa6033ebdcafff13eab91fa73f2c7723754d829437c92a87db90f",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/ynj2_r877_5ef21e749eb1.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Compared to National",
+          "compared_to_national"
+        ],
+        [
+          "Denominator",
+          "denominator"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Lower Estimate",
+          "lower_estimate"
+        ],
+        [
+          "Higher Estimate",
+          "higher_estimate"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "99ue-w85f",
+      "title": "Patient survey (HCAHPS) - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/08eefc5ab7c6cce7b3555fd79b0d8eec_1785189951/HCAHPS-National.csv",
+      "rows": 51,
+      "columns": 7,
+      "sha256": "15f239ece6a139d4319aeca2f069b8c08b2159ee283a712c31f7eea6624d8976",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/99ue_w85f_137f92154145.csv",
+      "header_mapping": [
+        [
+          "HCAHPS Measure ID",
+          "hcahps_measure_id"
+        ],
+        [
+          "HCAHPS Question",
+          "hcahps_question"
+        ],
+        [
+          "HCAHPS Answer Description",
+          "hcahps_answer_description"
+        ],
+        [
+          "HCAHPS Answer Percent",
+          "hcahps_answer_percent"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "xrgf-x36b",
+      "title": "Table 2: FY2024 Distribution of Net Change in Base Operating DRG Payment Amount",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/c9c4b48e76ed7ca1e965bd39959d497b_1770163573/FY2024_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv",
+      "rows": 13,
+      "columns": 2,
+      "sha256": "2a82aaf2e573a2727853522adb3a146f3ffa96a511785bb86c9110c868fec7fc",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/xrgf_x36b_ef0c96e56235.csv",
+      "header_mapping": [
+        [
+          "Percentile",
+          "percentile"
+        ],
+        [
+          "Net Change in Base Operating DRG Payment Amount",
+          "net_change_in_base_operating_drg_payment_amount"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "vtqa-m4zn",
+      "title": "Table 4: FY2024 Value-Based Incentive Payment Amount",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ba15e25a73a051dbb3435458af7eb96d_1770163578/FY2024_Value_Based_Incentive_Payment_Amount.csv",
+      "rows": 25,
+      "columns": 2,
+      "sha256": "5ec998abddeb6e6565b4e02f021d999cee52da4b6b181e90c5aef5d159d1444b",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/vtqa_m4zn_036be7a7e6ec.csv",
+      "header_mapping": [
+        [
+          "Incentive Payment Range",
+          "incentive_payment_range"
+        ],
+        [
+          "Number of Hospitals Receiving this Range",
+          "number_of_hospitals_receiving_this_range"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "u625-zae7",
+      "title": "Table 3: FY2024 Percent Change in Medicare Payments",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/3d267e89dc34ca3a928554b9c73775ef_1770163577/FY2024_Percent_Change_in_Medicare_Payments.csv",
+      "rows": 23,
+      "columns": 2,
+      "sha256": "8fa5f116932923707e4f34e686cacf89deee76b4404b5cdac26c11366bbf8dca",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/u625_zae7_cff567fd4aa3.csv",
+      "header_mapping": [
+        [
+          "% Change in Base Operating DRG Payment Amount",
+          "change_in_base_operating_drg_payment_amount"
+        ],
+        [
+          "Number of Hospitals Receiving this % Change",
+          "number_of_hospitals_receiving_this_change"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "5gv4-jwyv",
+      "title": "Table 1: FY2024 Net Change in Base Operating DRG Payment Amount",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1b4d8a2b70cd651403cf1c4f8e545088_1770163575/FY2024_Net_Change_in_Base_Op_DRG_Payment_Amt.csv",
+      "rows": 33,
+      "columns": 2,
+      "sha256": "556557ac3a3006a2b9641771d9d65c600924817cdd0e7fddd0a69df34a803550",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/5gv4_jwyv_45152f263868.csv",
+      "header_mapping": [
+        [
+          "Net Change in Base Operating DRG Payment Amount",
+          "net_change_in_base_operating_drg_payment_amount"
+        ],
+        [
+          "Number of Hospitals Receiving this Range",
+          "number_of_hospitals_receiving_this_range"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "yd3s-jyhd",
+      "title": "Healthcare Associated Infections - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/a87585b27c50c3899eec6a857958a5f0_1785189953/Healthcare_Associated_Infections-National.csv",
+      "rows": 6,
+      "columns": 6,
+      "sha256": "32bdccc7b743b83263e8a0a85e358b7dac176489ca2169698fc4b559d3043b08",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/yd3s_jyhd_8c893bbb4902.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "k2ze-bqvw",
+      "title": "Healthcare Associated Infections - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/27986ce2f1193d3fcad7fa1bddc93c3b_1785189953/Healthcare_Associated_Infections-State.csv",
+      "rows": 1008,
+      "columns": 7,
+      "sha256": "40bb38ef189d77b2ce6b594b646080bd0a4f015332b9ace20f53eb6c578fd1ad",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/k2ze_bqvw_e2bd481f50e9.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "84jm-wiui",
+      "title": "Patient survey (HCAHPS) - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/e4ca53701c73500a3188874f2bbd2854_1785189951/HCAHPS-State.csv",
+      "rows": 2856,
+      "columns": 8,
+      "sha256": "cb071a4ddda72ac0384e0e19a3dd6f06833d44ae0034049b76c862fc20d46f38",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/84jm_wiui_eca1cc637e4c.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "HCAHPS Measure ID",
+          "hcahps_measure_id"
+        ],
+        [
+          "HCAHPS Question",
+          "hcahps_question"
+        ],
+        [
+          "HCAHPS Answer Description",
+          "hcahps_answer_description"
+        ],
+        [
+          "HCAHPS Answer Percent",
+          "hcahps_answer_percent"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "s5pj-hua3",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/fdc286f2f60134775fa4b7f7b249b075_1785189954/OQR_OAS_CAHPS_NATIONAL.csv",
+      "rows": 15,
+      "columns": 7,
+      "sha256": "507fd27ba07737f0aec8e97a37845d3c6fd6bdb9bbeb7dfe2b9232c772d48e71",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/s5pj_hua3_f167649a5dd6.csv",
+      "header_mapping": [
+        [
+          "OAS CAHPS Measure ID",
+          "oas_cahps_measure_id"
+        ],
+        [
+          "OAS CAHPS Question",
+          "oas_cahps_question"
+        ],
+        [
+          "OAS CAHPS Answer Description",
+          "oas_cahps_answer_description"
+        ],
+        [
+          "OAS CAHPS Answer Percent",
+          "oas_cahps_answer_percent"
+        ],
+        [
+          "OAS CAHPS Answer Percent Footnote",
+          "oas_cahps_answer_percent_footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "xubh-q36u",
+      "title": "Hospital General Information",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1785189955/Hospital_General_Information.csv",
+      "rows": 5419,
+      "columns": 38,
+      "sha256": "5844fe6eedece16a03d312dcc83f850ca82d21565ca43b31fd2aa669dc415d1b",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/xubh_q36u_9ec16bd54d17.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Hospital Type",
+          "hospital_type"
+        ],
+        [
+          "Hospital Ownership",
+          "hospital_ownership"
+        ],
+        [
+          "Emergency Services",
+          "emergency_services"
+        ],
+        [
+          "Meets criteria for birthing friendly designation",
+          "meets_criteria_for_birthing_friendly_designation"
+        ],
+        [
+          "Hospital overall rating",
+          "hospital_overall_rating"
+        ],
+        [
+          "Hospital overall rating footnote",
+          "hospital_overall_rating_footnote"
+        ],
+        [
+          "MORT Group Measure Count",
+          "mort_group_measure_count"
+        ],
+        [
+          "Count of Facility MORT Measures",
+          "count_of_facility_mort_measures"
+        ],
+        [
+          "Count of MORT Measures Better",
+          "count_of_mort_measures_better"
+        ],
+        [
+          "Count of MORT Measures No Different",
+          "count_of_mort_measures_no_different"
+        ],
+        [
+          "Count of MORT Measures Worse",
+          "count_of_mort_measures_worse"
+        ],
+        [
+          "MORT Group Footnote",
+          "mort_group_footnote"
+        ],
+        [
+          "Safety Group Measure Count",
+          "safety_group_measure_count"
+        ],
+        [
+          "Count of Facility Safety Measures",
+          "count_of_facility_safety_measures"
+        ],
+        [
+          "Count of Safety Measures Better",
+          "count_of_safety_measures_better"
+        ],
+        [
+          "Count of Safety Measures No Different",
+          "count_of_safety_measures_no_different"
+        ],
+        [
+          "Count of Safety Measures Worse",
+          "count_of_safety_measures_worse"
+        ],
+        [
+          "Safety Group Footnote",
+          "safety_group_footnote"
+        ],
+        [
+          "READM Group Measure Count",
+          "readm_group_measure_count"
+        ],
+        [
+          "Count of Facility READM Measures",
+          "count_of_facility_readm_measures"
+        ],
+        [
+          "Count of READM Measures Better",
+          "count_of_readm_measures_better"
+        ],
+        [
+          "Count of READM Measures No Different",
+          "count_of_readm_measures_no_different"
+        ],
+        [
+          "Count of READM Measures Worse",
+          "count_of_readm_measures_worse"
+        ],
+        [
+          "READM Group Footnote",
+          "readm_group_footnote"
+        ],
+        [
+          "Pt Exp Group Measure Count",
+          "pt_exp_group_measure_count"
+        ],
+        [
+          "Count of Facility Pt Exp Measures",
+          "count_of_facility_pt_exp_measures"
+        ],
+        [
+          "Pt Exp Group Footnote",
+          "pt_exp_group_footnote"
+        ],
+        [
+          "TE Group Measure Count",
+          "te_group_measure_count"
+        ],
+        [
+          "Count of Facility TE Measures",
+          "count_of_facility_te_measures"
+        ],
+        [
+          "TE Group Footnote",
+          "te_group_footnote"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "6pfg-whmx",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5c995348b26c08179f1149d3b07dcb70_1785189954/OQR_OAS_CAHPS_STATE.csv",
+      "rows": 840,
+      "columns": 8,
+      "sha256": "cf7d90b03166a91f8b4b23da6ce161f2f0a10026d41aefc25020be0f5f8f0868",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/6pfg_whmx_9a1ec703ad4e.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "OAS CAHPS Measure ID",
+          "oas_cahps_measure_id"
+        ],
+        [
+          "OAS CAHPS Question",
+          "oas_cahps_question"
+        ],
+        [
+          "OAS CAHPS Answer Description",
+          "oas_cahps_answer_description"
+        ],
+        [
+          "OAS CAHPS Answer Percent",
+          "oas_cahps_answer_percent"
+        ],
+        [
+          "OAS CAHPS Answer Percent Footnote",
+          "oas_cahps_answer_percent_footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "yizn-abxn",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/9189f27bb8ab7a4ff8919bdc682bf79a_1785189954/OQR_OAS_CAHPS_BY_HOSPITAL.csv",
+      "rows": 92520,
+      "columns": 20,
+      "sha256": "a2362ffa76338f9409cb00827d3e24aef4081040587a4ac3735d39fd731a2bff",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/yizn_abxn_e21718a38bfb.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "OAS CAHPS Measure ID",
+          "oas_cahps_measure_id"
+        ],
+        [
+          "OAS CAHPS Question",
+          "oas_cahps_question"
+        ],
+        [
+          "OAS CAHPS Answer Description",
+          "oas_cahps_answer_description"
+        ],
+        [
+          "OAS CAHPS Answer Percent",
+          "oas_cahps_answer_percent"
+        ],
+        [
+          "OAS CAHPS Answer Percent Footnote",
+          "oas_cahps_answer_percent_footnote"
+        ],
+        [
+          "OAS CAHPS Linear Mean Value",
+          "oas_cahps_linear_mean_value"
+        ],
+        [
+          "Number of Completed Surveys",
+          "number_of_completed_surveys"
+        ],
+        [
+          "Number of Completed Surveys Footnote",
+          "number_of_completed_surveys_footnote"
+        ],
+        [
+          "Survey Response Rate Percent",
+          "survey_response_rate_percent"
+        ],
+        [
+          "Survey Response Rate Percent Footnote",
+          "survey_response_rate_percent_footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "77hc-ibv8",
+      "title": "Healthcare Associated Infections - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/43825e12dc0c923df9ba5cbdf473c9d5_1785189952/Healthcare_Associated_Infections-Hospital.csv",
+      "rows": 172440,
+      "columns": 15,
+      "sha256": "8de3d92112a5888a7ad533f50fc3ab6ba60b4ec5b269b93c8a485f9d4562c689",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/77hc_ibv8_619ae530e0c0.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Compared to National",
+          "compared_to_national"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "dgck-syfz",
+      "title": "Patient survey (HCAHPS) - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/78a50346fbe828ea0ce2837847af6a7c_1785189950/HCAHPS-Hospital.csv",
+      "rows": 325720,
+      "columns": 22,
+      "sha256": "9aa5c609ff2f841fa3a7fb8ffa2267cacaf1a2767dd449ec3629ec5220c22652",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/dgck_syfz_f48b22a08be2.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "HCAHPS Measure ID",
+          "hcahps_measure_id"
+        ],
+        [
+          "HCAHPS Question",
+          "hcahps_question"
+        ],
+        [
+          "HCAHPS Answer Description",
+          "hcahps_answer_description"
+        ],
+        [
+          "Patient Survey Star Rating",
+          "patient_survey_star_rating"
+        ],
+        [
+          "Patient Survey Star Rating Footnote",
+          "patient_survey_star_rating_footnote"
+        ],
+        [
+          "HCAHPS Answer Percent",
+          "hcahps_answer_percent"
+        ],
+        [
+          "HCAHPS Answer Percent Footnote",
+          "hcahps_answer_percent_footnote"
+        ],
+        [
+          "HCAHPS Linear Mean Value",
+          "hcahps_linear_mean_value"
+        ],
+        [
+          "Number of Completed Surveys",
+          "number_of_completed_surveys"
+        ],
+        [
+          "Number of Completed Surveys Footnote",
+          "number_of_completed_surveys_footnote"
+        ],
+        [
+          "Survey Response Rate Percent",
+          "survey_response_rate_percent"
+        ],
+        [
+          "Survey Response Rate Percent Footnote",
+          "survey_response_rate_percent_footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "jfnd-nl7s",
+      "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6a91b2a437ea47e61cd34c975dd54729_1790013959/PCH_Complications_Unplanned_Hospital_Visits_NATIONAL.csv",
+      "rows": 4,
+      "columns": 9,
+      "sha256": "cabf503d4fef00441d5f983154f6f0c24395450e6698387faf2d808c68506062",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/jfnd_nl7s_1f048a8af337.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Description",
+          "measure_description"
+        ],
+        [
+          "National Rate",
+          "national_rate"
+        ],
+        [
+          "Better",
+          "better"
+        ],
+        [
+          "No Different",
+          "no_different"
+        ],
+        [
+          "Worse",
+          "worse"
+        ],
+        [
+          "Too Small",
+          "too_small"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "5hk7-b79m",
+      "title": "Medicare Spending Per Beneficiary - Hospital Additional Decimal Places",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/500f70bcb6c65433c00a96af0e0c0430_1770163607/HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv",
+      "rows": 2974,
+      "columns": 6,
+      "sha256": "77927dad0a7e40e30ec6210812c49df04844422c1e16a13102b0066c127bc30c",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/5hk7_b79m_6d81e6c4cd19.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Value",
+          "value"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "yq43-i98g",
+      "title": "Hospital-Acquired Condition (HAC) Reduction Program",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/74be67fd6833391f578abb5605d03ce6_1770163605/FY_2026_HAC_Reduction_Program_Hospital.csv",
+      "rows": 3055,
+      "columns": 36,
+      "sha256": "bc16224861db858c96743a906c987622935d8f5ff72226826bcf0fba68ab4e34",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/yq43_i98g_c393af1db96b.csv",
+      "header_mapping": [
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Fiscal Year",
+          "fiscal_year"
+        ],
+        [
+          "PSI 90 Composite Value",
+          "psi_90_composite_value"
+        ],
+        [
+          "PSI 90 Composite Value Footnote",
+          "psi_90_composite_value_footnote"
+        ],
+        [
+          "PSI 90 W Z Score",
+          "psi_90_w_z_score"
+        ],
+        [
+          "PSI 90 W Z Footnote",
+          "psi_90_w_z_footnote"
+        ],
+        [
+          "PSI 90 Start Date",
+          "psi_90_start_date"
+        ],
+        [
+          "PSI 90 End Date",
+          "psi_90_end_date"
+        ],
+        [
+          "CLABSI SIR",
+          "clabsi_sir"
+        ],
+        [
+          "CLABSI SIR Footnote",
+          "clabsi_sir_footnote"
+        ],
+        [
+          "CLABSI W Z Score",
+          "clabsi_w_z_score"
+        ],
+        [
+          "CLABSI W Z Footnote",
+          "clabsi_w_z_footnote"
+        ],
+        [
+          "CAUTI SIR",
+          "cauti_sir"
+        ],
+        [
+          "CAUTI SIR Footnote",
+          "cauti_sir_footnote"
+        ],
+        [
+          "CAUTI W Z Score",
+          "cauti_w_z_score"
+        ],
+        [
+          "CAUTI W Z Footnote",
+          "cauti_w_z_footnote"
+        ],
+        [
+          "SSI SIR",
+          "ssi_sir"
+        ],
+        [
+          "SSI SIR Footnote",
+          "ssi_sir_footnote"
+        ],
+        [
+          "SSI W Z Score",
+          "ssi_w_z_score"
+        ],
+        [
+          "SSI W Z Footnote",
+          "ssi_w_z_footnote"
+        ],
+        [
+          "CDI SIR",
+          "cdi_sir"
+        ],
+        [
+          "CDI SIR Footnote",
+          "cdi_sir_footnote"
+        ],
+        [
+          "CDI W Z Score",
+          "cdi_w_z_score"
+        ],
+        [
+          "CDI W Z Footnote",
+          "cdi_w_z_footnote"
+        ],
+        [
+          "MRSA SIR",
+          "mrsa_sir"
+        ],
+        [
+          "MRSA SIR Footnote",
+          "mrsa_sir_footnote"
+        ],
+        [
+          "MRSA W Z Score",
+          "mrsa_w_z_score"
+        ],
+        [
+          "MRSA W Z Footnote",
+          "mrsa_w_z_footnote"
+        ],
+        [
+          "HAI Measures Start Date",
+          "hai_measures_start_date"
+        ],
+        [
+          "HAI Measures End Date",
+          "hai_measures_end_date"
+        ],
+        [
+          "Total HAC Score",
+          "total_hac_score"
+        ],
+        [
+          "Total HAC Score Footnote",
+          "total_hac_score_footnote"
+        ],
+        [
+          "Payment Reduction",
+          "payment_reduction"
+        ],
+        [
+          "Payment Reduction Footnote",
+          "payment_reduction_footnote"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "k653-4ka8",
+      "title": "Safety and Healthcare-Associated Infection Measures - PPS-Exempt Cancer Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d24fd9fa17ad5673de9cf6220c1c7a5a_1785189957/PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv",
+      "rows": 308,
+      "columns": 14,
+      "sha256": "2bd618f28dcea09aa68f0c233cea927bce97827bd31cde956dd7b6887c945f6b",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/k653_4ka8_5883c3786748.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Hospital Type",
+          "hospital_type"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "z8ax-x9j1",
+      "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/bc386a698d7a9b8d09bf37a73371a899_1790013958/PCH_Complications_Unplanned_Hospital_Visits_HOSPITAL.csv",
+      "rows": 44,
+      "columns": 18,
+      "sha256": "853ccfde2929be9f084ff55c52317a9be1aa5446e4796cb42de5260da953ac99",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/z8ax_x9j1_c1ec9b3678a1.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Hospital Type",
+          "hospital_type"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Description",
+          "measure_description"
+        ],
+        [
+          "Total Cases",
+          "total_cases"
+        ],
+        [
+          "Performance Category",
+          "performance_category"
+        ],
+        [
+          "Rate",
+          "rate"
+        ],
+        [
+          "Interval Lower Limit",
+          "interval_lower_limit"
+        ],
+        [
+          "Interval Upper Limit",
+          "interval_upper_limit"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "iy27-wz37",
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/155aff6db1e04cbbe1676ce459d71053_1785189958/PCH_HCAHPS_HOSPITAL.csv",
+      "rows": 748,
+      "columns": 22,
+      "sha256": "7fb8db09cb7fbfe8ad180ee395d6a509c5f205c1b904a7861cb5d76b487de311",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/iy27_wz37_e7e41eb9fa82.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "HCAHPS Measure ID",
+          "hcahps_measure_id"
+        ],
+        [
+          "HCAHPS Question",
+          "hcahps_question"
+        ],
+        [
+          "HCAHPS Answer Description",
+          "hcahps_answer_description"
+        ],
+        [
+          "Patient Survey Star Rating",
+          "patient_survey_star_rating"
+        ],
+        [
+          "Patient Survey Star Rating Footnote",
+          "patient_survey_star_rating_footnote"
+        ],
+        [
+          "HCAHPS Answer Percent",
+          "hcahps_answer_percent"
+        ],
+        [
+          "HCAHPS Answer Percent Footnote",
+          "hcahps_answer_percent_footnote"
+        ],
+        [
+          "HCAHPS Linear Mean Value",
+          "hcahps_linear_mean_value"
+        ],
+        [
+          "Number of Completed Surveys",
+          "number_of_completed_surveys"
+        ],
+        [
+          "Number of Completed Surveys Footnote",
+          "number_of_completed_surveys_footnote"
+        ],
+        [
+          "Survey Response Rate Percent",
+          "survey_response_rate_percent"
+        ],
+        [
+          "Survey Response Rate Percent Footnote",
+          "survey_response_rate_percent_footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "su9h-3pvj",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Efficiency Scores",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/46325dbbe6d2f654ecbb5046059c664e_1770163621/hvbp_efficiency_and_cost_reduction.csv",
+      "rows": 2455,
+      "columns": 15,
+      "sha256": "9d97ab6cd23256404b601dc7dfb4a9dda7f78a4a74fa285d01035ca23c0113bb",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/su9h_3pvj_7a415fbef8ff.csv",
+      "header_mapping": [
+        [
+          "Fiscal Year",
+          "fiscal_year"
+        ],
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "MSPB-1 Achievement Threshold",
+          "mspb_1_achievement_threshold"
+        ],
+        [
+          "MSPB-1 Benchmark",
+          "mspb_1_benchmark"
+        ],
+        [
+          "MSPB-1 Baseline Rate",
+          "mspb_1_baseline_rate"
+        ],
+        [
+          "MSPB-1 Performance Rate",
+          "mspb_1_performance_rate"
+        ],
+        [
+          "MSPB-1 Achievement Points",
+          "mspb_1_achievement_points"
+        ],
+        [
+          "MSPB-1 Improvement Points",
+          "mspb_1_improvement_points"
+        ],
+        [
+          "MSPB-1 Measure Score",
+          "mspb_1_measure_score"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "avtz-f2ge",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Person and Community Engagement Domain Scores (HCAHPS)",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ccc6534894a9bfe22b5f986260ed359e_1770163624/hvbp_person_and_community_engagement.csv",
+      "rows": 2455,
+      "columns": 74,
+      "sha256": "28e2c6c56118d778a707007e6f4ae839046cc08932efae271210dbfbb0451ee4",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/avtz_f2ge_171e80857d79.csv",
+      "header_mapping": [
+        [
+          "Fiscal Year",
+          "fiscal_year"
+        ],
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Communication With Nurses Floor",
+          "communication_with_nurses_floor"
+        ],
+        [
+          "Communication With Nurses Achievement Threshold",
+          "communication_with_nurses_achievement_threshold"
+        ],
+        [
+          "Communication With Nurses Benchmark",
+          "communication_with_nurses_benchmark"
+        ],
+        [
+          "Communication With Nurses Baseline Rate",
+          "communication_with_nurses_baseline_rate"
+        ],
+        [
+          "Communication With Nurses Performance Rate",
+          "communication_with_nurses_performance_rate"
+        ],
+        [
+          "Communication With Nurses Achievement Points",
+          "communication_with_nurses_achievement_points"
+        ],
+        [
+          "Communication With Nurses Improvement Points",
+          "communication_with_nurses_improvement_points"
+        ],
+        [
+          "Communication With Nurses Dimension Score",
+          "communication_with_nurses_dimension_score"
+        ],
+        [
+          "Communication With Doctors Floor",
+          "communication_with_doctors_floor"
+        ],
+        [
+          "Communication With Doctors Achievement Threshold",
+          "communication_with_doctors_achievement_threshold"
+        ],
+        [
+          "Communication With Doctors Benchmark",
+          "communication_with_doctors_benchmark"
+        ],
+        [
+          "Communication With Doctors Baseline Rate",
+          "communication_with_doctors_baseline_rate"
+        ],
+        [
+          "Communication With Doctors Performance Rate",
+          "communication_with_doctors_performance_rate"
+        ],
+        [
+          "Communication With Doctors Achievement Points",
+          "communication_with_doctors_achievement_points"
+        ],
+        [
+          "Communication With Doctors Improvement Points",
+          "communication_with_doctors_improvement_points"
+        ],
+        [
+          "Communication With Doctors Dimension Score",
+          "communication_with_doctors_dimension_score"
+        ],
+        [
+          "Responsiveness Of Hospital Staff Floor",
+          "responsiveness_of_hospital_staff_floor"
+        ],
+        [
+          "Responsiveness Of Hospital Staff Achievement Threshold",
+          "responsiveness_of_hospital_staff_achievement_threshold"
+        ],
+        [
+          "Responsiveness Of Hospital Staff Benchmark",
+          "responsiveness_of_hospital_staff_benchmark"
+        ],
+        [
+          "Responsiveness Of Hospital Staff Baseline Rate",
+          "responsiveness_of_hospital_staff_baseline_rate"
+        ],
+        [
+          "Responsiveness Of Hospital Staff Performance Rate",
+          "responsiveness_of_hospital_staff_performance_rate"
+        ],
+        [
+          "Responsiveness Of Hospital Staff Achievement Points",
+          "responsiveness_of_hospital_staff_achievement_points"
+        ],
+        [
+          "Responsiveness Of Hospital Staff Improvement Points",
+          "responsiveness_of_hospital_staff_improvement_points"
+        ],
+        [
+          "Responsiveness Of Hospital Staff Dimension Score",
+          "responsiveness_of_hospital_staff_dimension_score"
+        ],
+        [
+          "Care Transition Floor",
+          "care_transition_floor"
+        ],
+        [
+          "Care Transition Achievement Threshold",
+          "care_transition_achievement_threshold"
+        ],
+        [
+          "Care Transition Benchmark",
+          "care_transition_benchmark"
+        ],
+        [
+          "Care Transition Baseline Rate",
+          "care_transition_baseline_rate"
+        ],
+        [
+          "Care Transition Performance Rate",
+          "care_transition_performance_rate"
+        ],
+        [
+          "Care Transition Achievement Points",
+          "care_transition_achievement_points"
+        ],
+        [
+          "Care Transition Improvement Points",
+          "care_transition_improvement_points"
+        ],
+        [
+          "Care Transition Dimension Score",
+          "care_transition_dimension_score"
+        ],
+        [
+          "Communication About Medicines Floor",
+          "communication_about_medicines_floor"
+        ],
+        [
+          "Communication About Medicines Achievement Threshold",
+          "communication_about_medicines_achievement_threshold"
+        ],
+        [
+          "Communication About Medicines Benchmark",
+          "communication_about_medicines_benchmark"
+        ],
+        [
+          "Communication About Medicines Baseline Rate",
+          "communication_about_medicines_baseline_rate"
+        ],
+        [
+          "Communication About Medicines Performance Rate",
+          "communication_about_medicines_performance_rate"
+        ],
+        [
+          "Communication About Medicines Achievement Points",
+          "communication_about_medicines_achievement_points"
+        ],
+        [
+          "Communication About Medicines Improvement Points",
+          "communication_about_medicines_improvement_points"
+        ],
+        [
+          "Communication About Medicines Dimension Score",
+          "communication_about_medicines_dimension_score"
+        ],
+        [
+          "Cleanliness And Quietness Of Hospital Environment Floor",
+          "cleanliness_and_quietness_of_hospital_environment_floor"
+        ],
+        [
+          "Cleanliness And Quietness Of Hospital Environment Achievement Threshold",
+          "cleanliness_and_quietness_of_hospital_environment_achievement_threshold"
+        ],
+        [
+          "Cleanliness And Quietness Of Hospital Environment Benchmark",
+          "cleanliness_and_quietness_of_hospital_environment_benchmark"
+        ],
+        [
+          "Cleanliness And Quietness Of Hospital Environment Baseline Rate",
+          "cleanliness_and_quietness_of_hospital_environment_baseline_rate"
+        ],
+        [
+          "Cleanliness And Quietness Of Hospital Environment Performance Rate",
+          "cleanliness_and_quietness_of_hospital_environment_performance_rate"
+        ],
+        [
+          "Cleanliness And Quietness Of Hospital Environment Achievement Points",
+          "cleanliness_and_quietness_of_hospital_environment_achievement_points"
+        ],
+        [
+          "Cleanliness And Quietness Of Hospital Environment Improvement Points",
+          "cleanliness_and_quietness_of_hospital_environment_improvement_points"
+        ],
+        [
+          "Cleanliness And Quietness Of Hospital Environment Dimension Score",
+          "cleanliness_and_quietness_of_hospital_environment_dimension_score"
+        ],
+        [
+          "Discharge Information Floor",
+          "discharge_information_floor"
+        ],
+        [
+          "Discharge Information Achievement Threshold",
+          "discharge_information_achievement_threshold"
+        ],
+        [
+          "Discharge Information Benchmark",
+          "discharge_information_benchmark"
+        ],
+        [
+          "Discharge Information Baseline Rate",
+          "discharge_information_baseline_rate"
+        ],
+        [
+          "Discharge Information Performance Rate",
+          "discharge_information_performance_rate"
+        ],
+        [
+          "Discharge Information Achievement Points",
+          "discharge_information_achievement_points"
+        ],
+        [
+          "Discharge Information Improvement Points",
+          "discharge_information_improvement_points"
+        ],
+        [
+          "Discharge Information Dimension Score",
+          "discharge_information_dimension_score"
+        ],
+        [
+          "Overall Rating Of Hospital Floor",
+          "overall_rating_of_hospital_floor"
+        ],
+        [
+          "Overall Rating Of Hospital Achievement Threshold",
+          "overall_rating_of_hospital_achievement_threshold"
+        ],
+        [
+          "Overall Rating Of Hospital Benchmark",
+          "overall_rating_of_hospital_benchmark"
+        ],
+        [
+          "Overall Rating Of Hospital Baseline Rate",
+          "overall_rating_of_hospital_baseline_rate"
+        ],
+        [
+          "Overall Rating Of Hospital Performance Rate",
+          "overall_rating_of_hospital_performance_rate"
+        ],
+        [
+          "Overall Rating Of Hospital Achievement Points",
+          "overall_rating_of_hospital_achievement_points"
+        ],
+        [
+          "Overall Rating Of Hospital Improvement Points",
+          "overall_rating_of_hospital_improvement_points"
+        ],
+        [
+          "Overall Rating Of Hospital Dimension Score",
+          "overall_rating_of_hospital_dimension_score"
+        ],
+        [
+          "Hcahps Base Score",
+          "hcahps_base_score"
+        ],
+        [
+          "Hcahps Consistency Score",
+          "hcahps_consistency_score"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "9g7e-btyt",
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/51dabafd670b6379256fc111bcbec8b4_1785189958/PCH_HCAHPS_NATIONAL.csv",
+      "rows": 51,
+      "columns": 6,
+      "sha256": "7e8ac8c899e71ee87ea9db5ffaed0b16f16a1a62b6625bddb07aa3c4481526d1",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/9g7e_btyt_cb44ab6990a9.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "HCAHPS Question",
+          "hcahps_question"
+        ],
+        [
+          "HCAHPS Answer Description",
+          "hcahps_answer_description"
+        ],
+        [
+          "HCAHPS Answer Percent",
+          "hcahps_answer_percent"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "pudb-wetr",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Clinical Outcomes Domain Scores",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f5c74a8e8a0f2017f6e13b6fc517ae4e_1770163619/hvbp_clinical_outcomes.csv",
+      "rows": 2455,
+      "columns": 50,
+      "sha256": "eb6f59c5ba7b558c1acbfc9ec4b909534074a01cb69a9c12d5df6f2db32890fb",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/pudb_wetr_6d104462b92a.csv",
+      "header_mapping": [
+        [
+          "Fiscal Year",
+          "fiscal_year"
+        ],
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "MORT-30-AMI Achievement Threshold",
+          "mort_30_ami_achievement_threshold"
+        ],
+        [
+          "MORT-30-AMI Benchmark",
+          "mort_30_ami_benchmark"
+        ],
+        [
+          "MORT-30-AMI Baseline Rate",
+          "mort_30_ami_baseline_rate"
+        ],
+        [
+          "MORT-30-AMI Performance Rate",
+          "mort_30_ami_performance_rate"
+        ],
+        [
+          "MORT-30-AMI Achievement Points",
+          "mort_30_ami_achievement_points"
+        ],
+        [
+          "MORT-30-AMI Improvement Points",
+          "mort_30_ami_improvement_points"
+        ],
+        [
+          "MORT-30-AMI Measure Score",
+          "mort_30_ami_measure_score"
+        ],
+        [
+          "MORT-30-HF Achievement Threshold",
+          "mort_30_hf_achievement_threshold"
+        ],
+        [
+          "MORT-30-HF Benchmark",
+          "mort_30_hf_benchmark"
+        ],
+        [
+          "MORT-30-HF Baseline Rate",
+          "mort_30_hf_baseline_rate"
+        ],
+        [
+          "MORT-30-HF Performance Rate",
+          "mort_30_hf_performance_rate"
+        ],
+        [
+          "MORT-30-HF Achievement Points",
+          "mort_30_hf_achievement_points"
+        ],
+        [
+          "MORT-30-HF Improvement Points",
+          "mort_30_hf_improvement_points"
+        ],
+        [
+          "MORT-30-HF Measure Score",
+          "mort_30_hf_measure_score"
+        ],
+        [
+          "MORT-30-PN Achievement Threshold",
+          "mort_30_pn_achievement_threshold"
+        ],
+        [
+          "MORT-30-PN Benchmark",
+          "mort_30_pn_benchmark"
+        ],
+        [
+          "MORT-30-PN Baseline Rate",
+          "mort_30_pn_baseline_rate"
+        ],
+        [
+          "MORT-30-PN Performance Rate",
+          "mort_30_pn_performance_rate"
+        ],
+        [
+          "MORT-30-PN Achievement Points",
+          "mort_30_pn_achievement_points"
+        ],
+        [
+          "MORT-30-PN Improvement Points",
+          "mort_30_pn_improvement_points"
+        ],
+        [
+          "MORT-30-PN Measure Score",
+          "mort_30_pn_measure_score"
+        ],
+        [
+          "MORT-30-COPD Achievement Threshold",
+          "mort_30_copd_achievement_threshold"
+        ],
+        [
+          "MORT-30-COPD Benchmark",
+          "mort_30_copd_benchmark"
+        ],
+        [
+          "MORT-30-COPD Baseline Rate",
+          "mort_30_copd_baseline_rate"
+        ],
+        [
+          "MORT-30-COPD Performance Rate",
+          "mort_30_copd_performance_rate"
+        ],
+        [
+          "MORT-30-COPD Achievement Points",
+          "mort_30_copd_achievement_points"
+        ],
+        [
+          "MORT-30-COPD Improvement Points",
+          "mort_30_copd_improvement_points"
+        ],
+        [
+          "MORT-30-COPD Measure Score",
+          "mort_30_copd_measure_score"
+        ],
+        [
+          "MORT-30-CABG Achievement Threshold",
+          "mort_30_cabg_achievement_threshold"
+        ],
+        [
+          "MORT-30-CABG Benchmark",
+          "mort_30_cabg_benchmark"
+        ],
+        [
+          "MORT-30-CABG Baseline Rate",
+          "mort_30_cabg_baseline_rate"
+        ],
+        [
+          "MORT-30-CABG Performance Rate",
+          "mort_30_cabg_performance_rate"
+        ],
+        [
+          "MORT-30-CABG Achievement Points",
+          "mort_30_cabg_achievement_points"
+        ],
+        [
+          "MORT-30-CABG Improvement Points",
+          "mort_30_cabg_improvement_points"
+        ],
+        [
+          "MORT-30-CABG Measure Score",
+          "mort_30_cabg_measure_score"
+        ],
+        [
+          "COMP-HIP-KNEE Achievement Threshold",
+          "comp_hip_knee_achievement_threshold"
+        ],
+        [
+          "COMP-HIP-KNEE Benchmark",
+          "comp_hip_knee_benchmark"
+        ],
+        [
+          "COMP-HIP-KNEE Baseline Rate",
+          "comp_hip_knee_baseline_rate"
+        ],
+        [
+          "COMP-HIP-KNEE Performance Rate",
+          "comp_hip_knee_performance_rate"
+        ],
+        [
+          "COMP-HIP-KNEE Achievement Points",
+          "comp_hip_knee_achievement_points"
+        ],
+        [
+          "COMP-HIP-KNEE Improvement Points",
+          "comp_hip_knee_improvement_points"
+        ],
+        [
+          "COMP-HIP-KNEE Measure Score",
+          "comp_hip_knee_measure_score"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "9n3s-kdb3",
+      "title": "Hospital Readmissions Reduction Program",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/a171bc36c488d3e0dc33ec63abb469a6_1770163617/FY_2026_Hospital_Readmissions_Reduction_Program_Hospital.csv",
+      "rows": 18330,
+      "columns": 12,
+      "sha256": "24f93efa39682467f70026aae61206c22c01007bbe95f6833deb2c13e17bb008",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/9n3s_kdb3_e762fd9e10d6.csv",
+      "header_mapping": [
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Number of Discharges",
+          "number_of_discharges"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Excess Readmission Ratio",
+          "excess_readmission_ratio"
+        ],
+        [
+          "Predicted Readmission Rate",
+          "predicted_readmission_rate"
+        ],
+        [
+          "Expected Readmission Rate",
+          "expected_readmission_rate"
+        ],
+        [
+          "Number of Readmissions",
+          "number_of_readmissions"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "qatj-nmws",
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f1d65b1e3b562b932fd3827c7783ea35_1785189959/PCH_HCAHPS_STATE.csv",
+      "rows": 2856,
+      "columns": 7,
+      "sha256": "7d3cb81ea4efa2972045e96e918d2c182e1314bf4a32f68ba2c620f68c877aaa",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/qatj_nmws_887a5f33fc98.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "HCAHPS Question",
+          "hcahps_question"
+        ],
+        [
+          "HCAHPS Answer Description",
+          "hcahps_answer_description"
+        ],
+        [
+          "HCAHPS Answer Percent",
+          "hcahps_answer_percent"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "s5xg-sys6",
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/463e16600bec8c0aeb75ebfaef253ab7_1785189962/IPFQR_QualityMeasures_National.csv",
+      "rows": 1,
+      "columns": 56,
+      "sha256": "2e05aa64a5d694de7e9a13b82fb3b4bb421e9e73f306d41d3d30757205c8b074",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/s5xg_sys6_6fa9eadb2435.csv",
+      "header_mapping": [
+        [
+          "HBIPS-2 Measure Description",
+          "hbips_2_measure_description"
+        ],
+        [
+          "N HBIPS-2 Overall Rate Per 1000",
+          "n_hbips_2_overall_rate_per_1000"
+        ],
+        [
+          "N HBIPS-2 Overall Num",
+          "n_hbips_2_overall_num"
+        ],
+        [
+          "N HBIPS-2 Overall Den",
+          "n_hbips_2_overall_den"
+        ],
+        [
+          "HBIPS-3 Measure Description",
+          "hbips_3_measure_description"
+        ],
+        [
+          "N HBIPS-3 Overall Rate Per 1000",
+          "n_hbips_3_overall_rate_per_1000"
+        ],
+        [
+          "N HBIPS-3 Overall Num",
+          "n_hbips_3_overall_num"
+        ],
+        [
+          "N HBIPS-3 Overall Den",
+          "n_hbips_3_overall_den"
+        ],
+        [
+          "SMD Measure Description",
+          "smd_measure_description"
+        ],
+        [
+          "N SMD %",
+          "n_smd"
+        ],
+        [
+          "SMD Top 10%",
+          "smd_top_10"
+        ],
+        [
+          "SUB-2/-2a Measure Description",
+          "sub_2_2a_measure_description"
+        ],
+        [
+          "N SUB-2 %",
+          "n_sub_2"
+        ],
+        [
+          "SUB-2 Top 10%",
+          "sub_2_top_10"
+        ],
+        [
+          "N SUB-2a %",
+          "n_sub_2a"
+        ],
+        [
+          "SUB-2a Top 10%",
+          "sub_2a_top_10"
+        ],
+        [
+          "SUB-3/-3a Measure Description",
+          "sub_3_3a_measure_description"
+        ],
+        [
+          "N SUB-3 %",
+          "n_sub_3"
+        ],
+        [
+          "SUB-3 Top 10%",
+          "sub_3_top_10"
+        ],
+        [
+          "N SUB-3a %",
+          "n_sub_3a"
+        ],
+        [
+          "SUB-3a Top 10%",
+          "sub_3a_top_10"
+        ],
+        [
+          "TOB-3/-3a Measure Description",
+          "tob_3_3a_measure_description"
+        ],
+        [
+          "N TOB-3 %",
+          "n_tob_3"
+        ],
+        [
+          "TOB-3 Top 10%",
+          "tob_3_top_10"
+        ],
+        [
+          "N TOB-3a %",
+          "n_tob_3a"
+        ],
+        [
+          "TOB-3a Top 10%",
+          "tob_3a_top_10"
+        ],
+        [
+          "TR-1 Measure Description",
+          "tr_1_measure_description"
+        ],
+        [
+          "N TR-1 %",
+          "n_tr_1"
+        ],
+        [
+          "TR-1 Top 10%",
+          "tr_1_top_10"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ],
+        [
+          "FAPH Measure Description",
+          "faph_measure_description"
+        ],
+        [
+          "N FAPH-30 %",
+          "n_faph_30"
+        ],
+        [
+          "FAPH-30 Top 10%",
+          "faph_30_top_10"
+        ],
+        [
+          "N FAPH-7 %",
+          "n_faph_7"
+        ],
+        [
+          "FAPH-7 Top 10%",
+          "faph_7_top_10"
+        ],
+        [
+          "FAPH Measure Start Date",
+          "faph_measure_start_date"
+        ],
+        [
+          "FAPH Measure End Date",
+          "faph_measure_end_date"
+        ],
+        [
+          "MedCont Measure Description",
+          "med_cont_measure_description"
+        ],
+        [
+          "MedCont %",
+          "med_cont"
+        ],
+        [
+          "MedCont Top 10%",
+          "med_cont_top_10"
+        ],
+        [
+          "N MedCont Measure Start Date",
+          "n_med_cont_measure_start_date"
+        ],
+        [
+          "N MedCont Measure End Date",
+          "n_med_cont_measure_end_date"
+        ],
+        [
+          "READM-30-IPF Measure Desc",
+          "readm_30_ipf_measure_desc"
+        ],
+        [
+          "READM-30-IPF National Rate",
+          "readm_30_ipf_national_rate"
+        ],
+        [
+          "N READM-30-IPF # IPFs Worse",
+          "n_readm_30_ipf_ip_fs_worse"
+        ],
+        [
+          "N READM-30-IPF # IPFs Same",
+          "n_readm_30_ipf_ip_fs_same"
+        ],
+        [
+          "N READM-30-IPF # IPFs Better",
+          "n_readm_30_ipf_ip_fs_better"
+        ],
+        [
+          "N READM-30-IPF # IPFs Too Few",
+          "n_readm_30_ipf_ip_fs_too_few"
+        ],
+        [
+          "READM-30-IPF Start Date",
+          "readm_30_ipf_start_date"
+        ],
+        [
+          "READM-30-IPF End Date",
+          "readm_30_ipf_end_date"
+        ],
+        [
+          "IMM-2 Measure Description",
+          "imm_2_measure_description"
+        ],
+        [
+          "N IMM-2 %",
+          "n_imm_2"
+        ],
+        [
+          "IMM-2 Top 10%",
+          "imm_2_top_10"
+        ],
+        [
+          "Flu Season Start Date",
+          "flu_season_start_date"
+        ],
+        [
+          "Flu Season End Date",
+          "flu_season_end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "4j6d-yzce",
+      "title": "Measure Dates",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/633113381312e1fa86c8e0ba8b14ed0f_1785189963/Measure_Dates.csv",
+      "rows": 171,
+      "columns": 6,
+      "sha256": "fdf4cae692b4bf5441b97185445888b123c4be7cdc8ba6d1623d0425c00632d3",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/4j6d_yzce_35785e462937.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Measure Start Quarter",
+          "measure_start_quarter"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "Measure End Quarter",
+          "measure_end_quarter"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "dc76-gh7x",
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - by State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/aaf5b6168e889e217580d86b5c443c6d_1785189963/IPFQR_QualityMeasures_State.csv",
+      "rows": 52,
+      "columns": 44,
+      "sha256": "0963879da96ab9a2713aa67ae877532e8a14386e708fe37070220e1a1dae1ed4",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/dc76_gh7x_238f110b1055.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "HBIPS-2 Measure Description",
+          "hbips_2_measure_description"
+        ],
+        [
+          "S HBIPS-2 Overall Rate Per 1000",
+          "s_hbips_2_overall_rate_per_1000"
+        ],
+        [
+          "S HBIPS-2 Overall Num",
+          "s_hbips_2_overall_num"
+        ],
+        [
+          "S HBIPS-2 Overall Den",
+          "s_hbips_2_overall_den"
+        ],
+        [
+          "HBIPS-3 Measure Description",
+          "hbips_3_measure_description"
+        ],
+        [
+          "S HBIPS-3 Overall Rate Per 1000",
+          "s_hbips_3_overall_rate_per_1000"
+        ],
+        [
+          "S HBIPS-3 Overall Num",
+          "s_hbips_3_overall_num"
+        ],
+        [
+          "S HBIPS-3 Overall Den",
+          "s_hbips_3_overall_den"
+        ],
+        [
+          "SMD Measure Description",
+          "smd_measure_description"
+        ],
+        [
+          "S SMD %",
+          "s_smd"
+        ],
+        [
+          "SUB-2/-2a Measure Description",
+          "sub_2_2a_measure_description"
+        ],
+        [
+          "S SUB-2 %",
+          "s_sub_2"
+        ],
+        [
+          "S SUB-2a %",
+          "s_sub_2a"
+        ],
+        [
+          "SUB-3/-3a Measure Description",
+          "sub_3_3a_measure_description"
+        ],
+        [
+          "S SUB-3 %",
+          "s_sub_3"
+        ],
+        [
+          "S SUB-3a %",
+          "s_sub_3a"
+        ],
+        [
+          "TOB-3/-3a Measure Description",
+          "tob_3_3a_measure_description"
+        ],
+        [
+          "S TOB-3 %",
+          "s_tob_3"
+        ],
+        [
+          "S TOB-3a %",
+          "s_tob_3a"
+        ],
+        [
+          "TR-1 Measure Description",
+          "tr_1_measure_description"
+        ],
+        [
+          "S TR-1 %",
+          "s_tr_1"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ],
+        [
+          "FAPH Measure Description",
+          "faph_measure_description"
+        ],
+        [
+          "S FAPH-30 %",
+          "s_faph_30"
+        ],
+        [
+          "S FAPH-7 %",
+          "s_faph_7"
+        ],
+        [
+          "FAPH Measure Start Date",
+          "faph_measure_start_date"
+        ],
+        [
+          "FAPH Measure End Date",
+          "faph_measure_end_date"
+        ],
+        [
+          "MedCont Measure Description",
+          "med_cont_measure_description"
+        ],
+        [
+          "S MedCont %",
+          "s_med_cont"
+        ],
+        [
+          "MedCont Measure Start Date",
+          "med_cont_measure_start_date"
+        ],
+        [
+          "MedCont Measure End Date",
+          "med_cont_measure_end_date"
+        ],
+        [
+          "READM-30-IPF Measure Desc",
+          "readm_30_ipf_measure_desc"
+        ],
+        [
+          "S READM-30-IPF # IPFs Worse",
+          "s_readm_30_ipf_ip_fs_worse"
+        ],
+        [
+          "S READM-30-IPF # IPFs Same",
+          "s_readm_30_ipf_ip_fs_same"
+        ],
+        [
+          "S READM-30-IPF # IPFs Better",
+          "s_readm_30_ipf_ip_fs_better"
+        ],
+        [
+          "S READM-30-IPF # IPFs Too Few",
+          "s_readm_30_ipf_ip_fs_too_few"
+        ],
+        [
+          "READM-30-IPF Start Date",
+          "readm_30_ipf_start_date"
+        ],
+        [
+          "READM-30-IPF End Date",
+          "readm_30_ipf_end_date"
+        ],
+        [
+          "IMM-2 Measure Description",
+          "imm_2_measure_description"
+        ],
+        [
+          "S IMM-2 %",
+          "s_imm_2"
+        ],
+        [
+          "Flu Season Start Date",
+          "flu_season_start_date"
+        ],
+        [
+          "Flu Season End Date",
+          "flu_season_end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "dgmq-aat3",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Safety",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/33e26123c259ca779642b0d61b2e82f5_1777392336/hvbp_safety.csv",
+      "rows": 2455,
+      "columns": 58,
+      "sha256": "7ed21f3a990ad8bab6e0ee89b25461e037336a97a853514e927ddb48c48d2835",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/dgmq_aat3_35d081b0fc23.csv",
+      "header_mapping": [
+        [
+          "Fiscal Year",
+          "fiscal_year"
+        ],
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "HAI-1 Achievement Threshold",
+          "hai_1_achievement_threshold"
+        ],
+        [
+          "HAI-1 Benchmark",
+          "hai_1_benchmark"
+        ],
+        [
+          "HAI-1 Baseline Rate",
+          "hai_1_baseline_rate"
+        ],
+        [
+          "HAI-1 Performance Rate",
+          "hai_1_performance_rate"
+        ],
+        [
+          "HAI-1 Achievement Points",
+          "hai_1_achievement_points"
+        ],
+        [
+          "HAI-1 Improvement Points",
+          "hai_1_improvement_points"
+        ],
+        [
+          "HAI-1 Measure Score",
+          "hai_1_measure_score"
+        ],
+        [
+          "HAI-2 Achievement Threshold",
+          "hai_2_achievement_threshold"
+        ],
+        [
+          "HAI-2 Benchmark",
+          "hai_2_benchmark"
+        ],
+        [
+          "HAI-2 Baseline Rate",
+          "hai_2_baseline_rate"
+        ],
+        [
+          "HAI-2 Performance Rate",
+          "hai_2_performance_rate"
+        ],
+        [
+          "HAI-2 Achievement Points",
+          "hai_2_achievement_points"
+        ],
+        [
+          "HAI-2 Improvement Points",
+          "hai_2_improvement_points"
+        ],
+        [
+          "HAI-2 Measure Score",
+          "hai_2_measure_score"
+        ],
+        [
+          "Combined SSI Measure Score",
+          "combined_ssi_measure_score"
+        ],
+        [
+          "HAI-3 Achievement Threshold",
+          "hai_3_achievement_threshold"
+        ],
+        [
+          "HAI-3 Benchmark",
+          "hai_3_benchmark"
+        ],
+        [
+          "HAI-3 Baseline Rate",
+          "hai_3_baseline_rate"
+        ],
+        [
+          "HAI-3 Performance Rate",
+          "hai_3_performance_rate"
+        ],
+        [
+          "HAI-3 Achievement Points",
+          "hai_3_achievement_points"
+        ],
+        [
+          "HAI-3 Improvement Points",
+          "hai_3_improvement_points"
+        ],
+        [
+          "HAI-3 Measure Score",
+          "hai_3_measure_score"
+        ],
+        [
+          "HAI-4 Achievement Threshold",
+          "hai_4_achievement_threshold"
+        ],
+        [
+          "HAI-4 Benchmark",
+          "hai_4_benchmark"
+        ],
+        [
+          "HAI-4 Baseline Rate",
+          "hai_4_baseline_rate"
+        ],
+        [
+          "HAI-4 Performance Rate",
+          "hai_4_performance_rate"
+        ],
+        [
+          "HAI-4 Achievement Points",
+          "hai_4_achievement_points"
+        ],
+        [
+          "HAI-4 Improvement Points",
+          "hai_4_improvement_points"
+        ],
+        [
+          "HAI-4 Measure Score",
+          "hai_4_measure_score"
+        ],
+        [
+          "HAI-5 Achievement Threshold",
+          "hai_5_achievement_threshold"
+        ],
+        [
+          "HAI-5 Benchmark",
+          "hai_5_benchmark"
+        ],
+        [
+          "HAI-5 Baseline Rate",
+          "hai_5_baseline_rate"
+        ],
+        [
+          "HAI-5 Performance Rate",
+          "hai_5_performance_rate"
+        ],
+        [
+          "HAI-5 Achievement Points",
+          "hai_5_achievement_points"
+        ],
+        [
+          "HAI-5 Improvement Points",
+          "hai_5_improvement_points"
+        ],
+        [
+          "HAI-5 Measure Score",
+          "hai_5_measure_score"
+        ],
+        [
+          "HAI-6 Achievement Threshold",
+          "hai_6_achievement_threshold"
+        ],
+        [
+          "HAI-6 Benchmark",
+          "hai_6_benchmark"
+        ],
+        [
+          "HAI-6 Baseline Rate",
+          "hai_6_baseline_rate"
+        ],
+        [
+          "HAI-6 Performance Rate",
+          "hai_6_performance_rate"
+        ],
+        [
+          "HAI-6 Achievement Points",
+          "hai_6_achievement_points"
+        ],
+        [
+          "HAI-6 Improvement Points",
+          "hai_6_improvement_points"
+        ],
+        [
+          "HAI-6 Measure Score",
+          "hai_6_measure_score"
+        ],
+        [
+          "SEP-1 Achievement Threshold",
+          "sep_1_achievement_threshold"
+        ],
+        [
+          "SEP-1 Benchmark",
+          "sep_1_benchmark"
+        ],
+        [
+          "SEP-1 Baseline Rate",
+          "sep_1_baseline_rate"
+        ],
+        [
+          "SEP-1 Performance Rate",
+          "sep_1_performance_rate"
+        ],
+        [
+          "SEP-1 Achievement Points",
+          "sep_1_achievement_points"
+        ],
+        [
+          "SEP-1 Improvement Points",
+          "sep_1_improvement_points"
+        ],
+        [
+          "SEP-1 Measure Score",
+          "sep_1_measure_score"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "ypbt-wvdk",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Total Performance Score",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5551d4839c1dd75e3f7fe1310a1e2369_1770163628/hvbp_tps.csv",
+      "rows": 2455,
+      "columns": 17,
+      "sha256": "176e62244a275ee1bc4061efb0d981d6f73f16541e614ea177cf8cdf1f9048c1",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/ypbt_wvdk_6044b6612d70.csv",
+      "header_mapping": [
+        [
+          "Fiscal Year",
+          "fiscal_year"
+        ],
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Unweighted Normalized Clinical Outcomes Domain Score",
+          "unweighted_normalized_clinical_outcomes_domain_score"
+        ],
+        [
+          "Weighted Normalized Clinical Outcomes Domain Score",
+          "weighted_normalized_clinical_outcomes_domain_score"
+        ],
+        [
+          "Unweighted Person And Community Engagement Domain Score",
+          "unweighted_person_and_community_engagement_domain_score"
+        ],
+        [
+          "Weighted Person And Community Engagement Domain Score",
+          "weighted_person_and_community_engagement_domain_score"
+        ],
+        [
+          "Unweighted Normalized Safety Domain Score",
+          "unweighted_normalized_safety_domain_score"
+        ],
+        [
+          "Weighted Safety Domain Score",
+          "weighted_safety_domain_score"
+        ],
+        [
+          "Unweighted Normalized Efficiency And Cost Reduction Domain Score",
+          "unweighted_normalized_efficiency_and_cost_reduction_domain_score"
+        ],
+        [
+          "Weighted Efficiency And Cost Reduction Domain Score",
+          "weighted_efficiency_and_cost_reduction_domain_score"
+        ],
+        [
+          "Total Performance Score",
+          "total_performance_score"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "q9vs-r7wp",
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - by Facility",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/e56cdbea2d002358610ebdb957cb35de_1785189962/IPFQR_QualityMeasures_Facility.csv",
+      "rows": 1410,
+      "columns": 78,
+      "sha256": "eba12cdb9d293fbc9ba7862226661f765553751911df8e481da6bb370a0dfebf",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/q9vs_r7wp_913e81c3918b.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "HBIPS-2 Measure Description",
+          "hbips_2_measure_description"
+        ],
+        [
+          "HBIPS-2 Overall Rate Per 1000",
+          "hbips_2_overall_rate_per_1000"
+        ],
+        [
+          "HBIPS-2 Overall Num",
+          "hbips_2_overall_num"
+        ],
+        [
+          "HBIPS-2 Overall Den",
+          "hbips_2_overall_den"
+        ],
+        [
+          "HBIPS-2 Overall Footnote",
+          "hbips_2_overall_footnote"
+        ],
+        [
+          "HBIPS-3 Measure Description",
+          "hbips_3_measure_description"
+        ],
+        [
+          "HBIPS-3 Overall Rate Per 1000",
+          "hbips_3_overall_rate_per_1000"
+        ],
+        [
+          "HBIPS-3 Overall Num",
+          "hbips_3_overall_num"
+        ],
+        [
+          "HBIPS-3 Overall Den",
+          "hbips_3_overall_den"
+        ],
+        [
+          "HBIPS-3 Overall Footnote",
+          "hbips_3_overall_footnote"
+        ],
+        [
+          "SMD Measure Description",
+          "smd_measure_description"
+        ],
+        [
+          "SMD %",
+          "smd"
+        ],
+        [
+          "SMD Denominator",
+          "smd_denominator"
+        ],
+        [
+          "SMD Footnote",
+          "smd_footnote"
+        ],
+        [
+          "SUB-2/-2a Measure Description",
+          "sub_2_2a_measure_description"
+        ],
+        [
+          "SUB-2 %",
+          "sub_2"
+        ],
+        [
+          "SUB-2 Denominator",
+          "sub_2_denominator"
+        ],
+        [
+          "SUB-2 Footnote",
+          "sub_2_footnote"
+        ],
+        [
+          "SUB-2a %",
+          "sub_2a"
+        ],
+        [
+          "SUB-2a Denominator",
+          "sub_2a_denominator"
+        ],
+        [
+          "SUB-2a Footnote",
+          "sub_2a_footnote"
+        ],
+        [
+          "SUB-3/-3a Measure Description",
+          "sub_3_3a_measure_description"
+        ],
+        [
+          "SUB-3 %",
+          "sub_3"
+        ],
+        [
+          "SUB-3 Denominator",
+          "sub_3_denominator"
+        ],
+        [
+          "SUB-3 Footnote",
+          "sub_3_footnote"
+        ],
+        [
+          "SUB-3a %",
+          "sub_3a"
+        ],
+        [
+          "SUB-3a Denominator",
+          "sub_3a_denominator"
+        ],
+        [
+          "SUB-3a Footnote",
+          "sub_3a_footnote"
+        ],
+        [
+          "TOB-3/-3a Measure Description",
+          "tob_3_3a_measure_description"
+        ],
+        [
+          "TOB-3 %",
+          "tob_3"
+        ],
+        [
+          "TOB-3 Denominator",
+          "tob_3_denominator"
+        ],
+        [
+          "TOB-3 Footnote",
+          "tob_3_footnote"
+        ],
+        [
+          "TOB-3a %",
+          "tob_3a"
+        ],
+        [
+          "TOB-3a Denominator",
+          "tob_3a_denominator"
+        ],
+        [
+          "TOB-3a Footnote",
+          "tob_3a_footnote"
+        ],
+        [
+          "TR-1 Measure Description",
+          "tr_1_measure_description"
+        ],
+        [
+          "TR-1 %",
+          "tr_1"
+        ],
+        [
+          "TR-1 Denominator",
+          "tr_1_denominator"
+        ],
+        [
+          "TR-1 Footnote",
+          "tr_1_footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ],
+        [
+          "FAPH Measure Description",
+          "faph_measure_description"
+        ],
+        [
+          "FAPH-30 %",
+          "faph_30"
+        ],
+        [
+          "FAPH-30 Denominator",
+          "faph_30_denominator"
+        ],
+        [
+          "FAPH-30 Footnote",
+          "faph_30_footnote"
+        ],
+        [
+          "FAPH-7 %",
+          "faph_7"
+        ],
+        [
+          "FAPH-7 Denominator",
+          "faph_7_denominator"
+        ],
+        [
+          "FAPH-7 Footnote",
+          "faph_7_footnote"
+        ],
+        [
+          "FAPH Measure Start Date",
+          "faph_measure_start_date"
+        ],
+        [
+          "FAPH Measure End Date",
+          "faph_measure_end_date"
+        ],
+        [
+          "MedCont Measure Desc",
+          "med_cont_measure_desc"
+        ],
+        [
+          "MedCont %",
+          "med_cont"
+        ],
+        [
+          "MedCont Denominator",
+          "med_cont_denominator"
+        ],
+        [
+          "MedCont Footnote",
+          "med_cont_footnote"
+        ],
+        [
+          "MedCont Measure Start Date",
+          "med_cont_measure_start_date"
+        ],
+        [
+          "MedCont Measure End Date",
+          "med_cont_measure_end_date"
+        ],
+        [
+          "READM-30-IPF Measure Desc",
+          "readm_30_ipf_measure_desc"
+        ],
+        [
+          "READM-30-IPF Category",
+          "readm_30_ipf_category"
+        ],
+        [
+          "READM-30-IPF Denominator",
+          "readm_30_ipf_denominator"
+        ],
+        [
+          "READM-30-IPF Rate",
+          "readm_30_ipf_rate"
+        ],
+        [
+          "READM-30-IPF Lower Estimate",
+          "readm_30_ipf_lower_estimate"
+        ],
+        [
+          "READM-30-IPF Higher Estimate",
+          "readm_30_ipf_higher_estimate"
+        ],
+        [
+          "READM-30-IPF Footnote",
+          "readm_30_ipf_footnote"
+        ],
+        [
+          "READM-30-IPF Start Date",
+          "readm_30_ipf_start_date"
+        ],
+        [
+          "READM-30-IPF End Date",
+          "readm_30_ipf_end_date"
+        ],
+        [
+          "IMM-2 Measure Description",
+          "imm_2_measure_description"
+        ],
+        [
+          "IMM-2 %",
+          "imm_2"
+        ],
+        [
+          "IMM-2 Denominator",
+          "imm_2_denominator"
+        ],
+        [
+          "IMM-2 Footnote",
+          "imm_2_footnote"
+        ],
+        [
+          "Flu Season Start Date",
+          "flu_season_start_date"
+        ],
+        [
+          "Flu Season End Date",
+          "flu_season_end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "di9i-zzrc",
+      "title": "Outpatient Imaging Efficiency - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/78172a595e76dc064ea87884c5aea1f8_1785189966/Outpatient_Imaging_Efficiency-National.csv",
+      "rows": 2,
+      "columns": 6,
+      "sha256": "5d18b51fa8e7d1db5c93718b6bb18bb624b8a82c1f7390e3f4e3d7b8bf93a08b",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/di9i_zzrc_58326cbfc873.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "wkfw-kthe",
+      "title": "Outpatient Imaging Efficiency - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d0134a9a89e59d49426cf5a2ad063b60_1785189966/Outpatient_Imaging_Efficiency-Hospital.csv",
+      "rows": 9252,
+      "columns": 14,
+      "sha256": "a0a97937724cdf091e95a78e8f68c4f4bd45809cc72646ea5d5794985e821d86",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/wkfw_kthe_c97681031b8e.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "3n5g-6b7f",
+      "title": "Medicare Spending Per Beneficiary - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ff15a8451b83ebc70b85a5c0e870a751_1785189965/Medicare_Hospital_Spending_Per_Patient-National.csv",
+      "rows": 1,
+      "columns": 8,
+      "sha256": "c0acd0473d780bccaef01bd54c5601e7cd9b4e76df2015762a220f6eb1776864",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/3n5g_6b7f_e81d5a59de2e.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote - Score",
+          "footnote_score"
+        ],
+        [
+          "National Median",
+          "national_median"
+        ],
+        [
+          "Footnote - National Median",
+          "footnote_national_median"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "rrqw-56er",
+      "title": "Medicare Spending Per Beneficiary - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/69874ce604586980ac088283c1b35095_1785189964/Medicare_Hospital_Spending_Per_Patient-Hospital.csv",
+      "rows": 4626,
+      "columns": 14,
+      "sha256": "858570dce2ab217450411486c513026dc80ab1da0c4e80fa7040202b21b38357",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/rrqw_56er_f865c2180f9d.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "rs6n-9qwg",
+      "title": "Medicare Spending Per Beneficiary - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b53c8e7d24557eb1e898557e4c7d7484_1785189965/Medicare_Hospital_Spending_Per_Patient-State.csv",
+      "rows": 56,
+      "columns": 7,
+      "sha256": "b5578eeebe766ace6aaf76fc4284fc5bd65791d680a7eb70ad1e1f83a1e6b3ec",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/rs6n_9qwg_b3d7e5f1506d.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "nrth-mfg3",
+      "title": "Medicare Hospital Spending by Claim",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1f8cde9e222d5d49f88a894bcf7a8981_1770163638/Medicare_Hospital_Spending_by_Claim.csv",
+      "rows": 63646,
+      "columns": 13,
+      "sha256": "6ecd1ebae486f16f5e7c21519ab97020fd3d3aa033d7c09dd829f07c0de3268b",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/nrth_mfg3_c129eca41219.csv",
+      "header_mapping": [
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Period",
+          "period"
+        ],
+        [
+          "Claim Type",
+          "claim_type"
+        ],
+        [
+          "Avg Spndg Per EP Hospital",
+          "avg_spndg_per_ep_hospital"
+        ],
+        [
+          "Avg Spndg Per EP State",
+          "avg_spndg_per_ep_state"
+        ],
+        [
+          "Avg Spndg Per EP National",
+          "avg_spndg_per_ep_national"
+        ],
+        [
+          "Percent of Spndg Hospital",
+          "percent_of_spndg_hospital"
+        ],
+        [
+          "Percent of Spndg State",
+          "percent_of_spndg_state"
+        ],
+        [
+          "Percent of Spndg National",
+          "percent_of_spndg_national"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "cvcs-xecj",
+      "title": "Unplanned Hospital Visits - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d30b0557f1d06bee1d5646d2eaede709_1790013960/Unplanned_Hospital_Visits-National.csv",
+      "rows": 14,
+      "columns": 14,
+      "sha256": "fd5e2a21e0f0da0af17676c3f0d8abfcc713042d6277ba9af7c2fa404aaa7f45",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/cvcs_xecj_ea8d5ae98ce8.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "National Rate",
+          "national_rate"
+        ],
+        [
+          "Number of Hospitals Worse",
+          "number_of_hospitals_worse"
+        ],
+        [
+          "Number of Hospitals Same",
+          "number_of_hospitals_same"
+        ],
+        [
+          "Number of Hospitals Better",
+          "number_of_hospitals_better"
+        ],
+        [
+          "Number of Hospitals Too Few",
+          "number_of_hospitals_too_few"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ],
+        [
+          "Number of Hospitals Fewer",
+          "number_of_hospitals_fewer"
+        ],
+        [
+          "Number of Hospitals Average",
+          "number_of_hospitals_average"
+        ],
+        [
+          "Number of Hospitals More",
+          "number_of_hospitals_more"
+        ],
+        [
+          "Number of Hospitals Too Small",
+          "number_of_hospitals_too_small"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "isrn-hqyy",
+      "title": "Timely and Effective Care - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b298b4a8c05addc75d1e9c9c9b2e4706_1785189968/Timely_and_Effective_Care-National.csv",
+      "rows": 45,
+      "columns": 8,
+      "sha256": "006ec9b19280b40a9c6633f7423db53fc172d9ce671f7800178d7379f65e0d07",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/isrn_hqyy_dad078af0cf3.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Condition",
+          "condition"
+        ],
+        [
+          "Category",
+          "category"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "if5v-4x48",
+      "title": "Outpatient Imaging Efficiency - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6fb7a772c39e34e630e7e97ec4887263_1785189967/Outpatient_Imaging_Efficiency-State.csv",
+      "rows": 112,
+      "columns": 7,
+      "sha256": "cbc69ab9e3e2a702f5f0fb635c01a766ef8f458aa348ee229e687803671fa8eb",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/if5v_4x48_acbddedfa59e.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "apyc-v239",
+      "title": "Timely and Effective Care - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/c4f74a440cc6ce4ed941fa3c9de2ab58_1785189968/Timely_and_Effective_Care-State.csv",
+      "rows": 1736,
+      "columns": 8,
+      "sha256": "e8eebe02616cc80fcf2adee6167a49d6a47b8c427abf62b818ef7f437a8e4b6e",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/apyc_v239_1f33385cb978.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Condition",
+          "condition"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "632h-zaca",
+      "title": "Unplanned Hospital Visits - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/30edc1d0417a34b58affcc2495a02b0a_1790013959/Unplanned_Hospital_Visits-Hospital.csv",
+      "rows": 67060,
+      "columns": 20,
+      "sha256": "b92d7d7de4bcbf33bffd5a39979808d21cf22f2ef20939b48c55e717323f86ed",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/632h_zaca_a597f0e2c7be.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Compared to National",
+          "compared_to_national"
+        ],
+        [
+          "Denominator",
+          "denominator"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Lower Estimate",
+          "lower_estimate"
+        ],
+        [
+          "Higher Estimate",
+          "higher_estimate"
+        ],
+        [
+          "Number of Patients",
+          "number_of_patients"
+        ],
+        [
+          "Number of Patients Returned",
+          "number_of_patients_returned"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "yv7e-xc69",
+      "title": "Timely and Effective Care - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/0437b5494ac61507ad90f2af6b8085a7_1785189967/Timely_and_Effective_Care-Hospital.csv",
+      "rows": 138084,
+      "columns": 16,
+      "sha256": "8ba13053957f52a84326d5632a448a5b7946f90f8f01b5a5bbf0b1449ec3167c",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/yv7e_xc69_3574d029ac19.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Condition",
+          "condition"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Sample",
+          "sample"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "bzsr-4my4",
+      "title": "Data Updates",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f751bebc45c1ee84120ea833308faef2_1785189971/Data_Updates_July_2026.csv",
+      "rows": 1229,
+      "columns": 4,
+      "sha256": "3cd4b7147206595923743e3a8f7478cce56370353f75977da66560cdeb4555c4",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/bzsr_4my4_8a7edc84f1d3.csv",
+      "header_mapping": [
+        [
+          "https://data.cms.gov/provider-data/ location affected",
+          "https_data_cms_gov_provider_data_location_affected"
+        ],
+        [
+          "Downloadable CSV revised file affected",
+          "downloadable_csv_revised_file_affected"
+        ],
+        [
+          "Data Last Updated",
+          "data_last_updated"
+        ],
+        [
+          "Data Last Updated Details",
+          "data_last_updated_details"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "4gkm-5ypv",
+      "title": "Unplanned Hospital Visits - State",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/73ce05bc6ecbb5def0e859818a906f7b_1790013961/Unplanned_Hospital_Visits-State.csv",
+      "rows": 784,
+      "columns": 14,
+      "sha256": "e285eea727b5f60b17264cd3a53383e42b5fb222df2c79eb762d8c4dc6f3fa15",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/4gkm_5ypv_084cc6bdb412.csv",
+      "header_mapping": [
+        [
+          "State",
+          "state"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Number of Hospitals Worse",
+          "number_of_hospitals_worse"
+        ],
+        [
+          "Number of Hospitals Same",
+          "number_of_hospitals_same"
+        ],
+        [
+          "Number of Hospitals Better",
+          "number_of_hospitals_better"
+        ],
+        [
+          "Number of Hospitals Too Few",
+          "number_of_hospitals_too_few"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ],
+        [
+          "Number of Hospitals Fewer",
+          "number_of_hospitals_fewer"
+        ],
+        [
+          "Number of Hospitals Average",
+          "number_of_hospitals_average"
+        ],
+        [
+          "Number of Hospitals More",
+          "number_of_hospitals_more"
+        ],
+        [
+          "Number of Hospitals Too Small",
+          "number_of_hospitals_too_small"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "uyx4-5s7f",
+      "title": "Veterans Health Administration Provider Level Data",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/9cea8696850b78e02559183bd6071fd6_1785189971/Veterans_Health_Administration_Provider_Level_Data.csv",
+      "rows": 132,
+      "columns": 13,
+      "sha256": "ca54e812a837f460160afe89b4737dc2db8cf6f5241d660e5d967a60b0942ac3",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/uyx4_5s7f_5dc87633b9e0.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Hospital Type",
+          "hospital_type"
+        ],
+        [
+          "Hospital Ownership",
+          "hospital_ownership"
+        ],
+        [
+          "Emergency Services",
+          "emergency_services"
+        ],
+        [
+          "Hospital overall rating",
+          "hospital_overall_rating"
+        ],
+        [
+          "Hospital overall rating footnote",
+          "hospital_overall_rating_footnote"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "nrdb-3fcy",
+      "title": "Maternal Health - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5a4754b088fdb10d2ae278ef215925a7_1785189972/Maternal_Health-Hospital.csv",
+      "rows": 17936,
+      "columns": 15,
+      "sha256": "476741977e0d03f5dc5f397d811401fee2d4ef346926826799f321c03588837a",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/nrdb_3fcy_e5cab049a963.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Sample",
+          "sample"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "ptds-r8im",
+      "title": "Veterans Health Administration Timely and Effective Care Data",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/07084088a9de9e44c51bef291a4e163a_1785189971/VA_TE.csv",
+      "rows": 1452,
+      "columns": 17,
+      "sha256": "b034969c738f14502d1ff777ccb573c3e19f092e78891e112d73be86a0f38e1b",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/ptds_r8im_31bc706ff2b9.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Condition",
+          "condition"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "STTag",
+          "st_tag"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Sample",
+          "sample"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "6qxe-iqz8",
+      "title": "Veterans Health Administration Behavioral Health Data",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/0742f326b7a19b57bc01136b2cd8b7b6_1785189970/VA_IPF.csv",
+      "rows": 660,
+      "columns": 16,
+      "sha256": "269ce927971b713b19981c4902b92ee2ff4f0906fd3c8cfd14304c1ee5ff1e7b",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/6qxe_iqz8_f85d463e05a7.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Condition",
+          "condition"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Sample",
+          "sample"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "f4ga-b9gx",
+      "title": "Promoting Interoperability - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5462b19a756c53c1becccf13787d9157_1785189974/Promoting_Interoperability-Hospital.csv",
+      "rows": 4626,
+      "columns": 12,
+      "sha256": "9fe39ff85114bfa138eb404c6574c97bef7c3702bcd59230cc0a5967beb991e4",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/f4ga_b9gx_6d2e1f4e27c7.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "CEHRT ID",
+          "cehrt_id"
+        ],
+        [
+          "Meets criteria for promoting interoperability of EHRs",
+          "meets_criteria_for_promoting_interoperability_of_eh_rs"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "mxtu-43qs",
+      "title": "Patient-Reported Outcomes - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/60ee1962356ca17e50e12f95d2871b46_1785189972/PATIENT_REPORTED_OUTCOMES_FACILITY.csv",
+      "rows": 4626,
+      "columns": 15,
+      "sha256": "c90e0585f6a62b9539209c6cc1e60f47532c9836a776753aec30d6aa3342ef4f",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/mxtu_43qs_4f47bdb17ba9.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Voluntary_Reporting",
+          "voluntary_reporting"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "qigt-w5cx",
+      "title": "Palliative Care - PPS-Exempt Cancer Hospital - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b19666c7d9f040b0fffd9c7135a7d92d_1785189973/PCH_Palliative_Care_NATIONAL.csv",
+      "rows": 4,
+      "columns": 5,
+      "sha256": "d1e7272948aac565dd0b95c71128c59ad656f0bbeb18f84085601aa2261989ac",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/qigt_w5cx_bc37d631d4da.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Description",
+          "measure_description"
+        ],
+        [
+          "National Rate",
+          "national_rate"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "qoeg-w7ck",
+      "title": "Palliative Care - PPS-Exempt Cancer Hospital - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/2d420234bc6bcc963c6c374d91b0ed90_1785189973/PCH_Palliative_Care_HOSPITAL.csv",
+      "rows": 44,
+      "columns": 15,
+      "sha256": "e5f166d5f207958f1619b53288d9048c80bd7dfbf352a4c967df52ea1e9ab346",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/qoeg_w7ck_0ca11507919b.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Hospital Type",
+          "hospital_type"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Description",
+          "measure_description"
+        ],
+        [
+          "Total Cases",
+          "total_cases"
+        ],
+        [
+          "Rate",
+          "rate"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "97xg-v3wv",
+      "title": "Rural Emergency Hospital Timely and Effective Care - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/325633e3e81e17de313537518fdca092_1785189974/REH_Timely_and_Effective_Care-Hospital.csv",
+      "rows": 172,
+      "columns": 16,
+      "sha256": "8abb59f87ac2f26164223bd61ac7e6063aaf183674493331cd2c69ad6618b890",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/97xg_v3wv_9572f3fd04d5.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Condition",
+          "condition"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Sample",
+          "sample"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "hbf-map",
+      "title": "Birthing Friendly Hospitals with Geocoded Addresses",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/e7f75e0803a17e22c4e26acf2183e622_1786493184/Birthing_Friendly_Hospitals_Geocoded.csv",
+      "rows": 2263,
+      "columns": 7,
+      "sha256": "29dc61fbea17a9d799a504e7cfeabff604bb16d91f11115d53a4c074d3634a74",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/hbf_map_a1ab1d2dac78.csv",
+      "header_mapping": [
+        [
+          "name",
+          "name"
+        ],
+        [
+          "addr",
+          "addr"
+        ],
+        [
+          "city",
+          "city"
+        ],
+        [
+          "state",
+          "state"
+        ],
+        [
+          "zip",
+          "zip"
+        ],
+        [
+          "lat",
+          "lat"
+        ],
+        [
+          "lon",
+          "lon"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "uk3n-au7a",
+      "title": "Rural Emergency Hospital Unplanned Hospital Visits - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ab50380fe5f8578c9b07e118dcdc43e4_1785189979/REH_Unplanned_Hospital_Visits-National.csv",
+      "rows": 1,
+      "columns": 10,
+      "sha256": "de78bb3932462df79832ad9cc26fb99cb0ae004ae7d9ae26e1840483a5b4eeca",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/uk3n_au7a_e5c4c35a9ff0.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "National Rate",
+          "national_rate"
+        ],
+        [
+          "Number of Hospitals Worse",
+          "number_of_hospitals_worse"
+        ],
+        [
+          "Number of Hospitals Same",
+          "number_of_hospitals_same"
+        ],
+        [
+          "Number of Hospitals Better",
+          "number_of_hospitals_better"
+        ],
+        [
+          "Number of Hospitals Too Few",
+          "number_of_hospitals_too_few"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "1su6-zfft",
+      "title": "Patient Engagement PPS-Exempt Cancer Hospital - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1ee80985ad5e9a217dd0208b0e0d4b78_1785189979/PCH_Patient_Engagement_Hospital.csv",
+      "rows": 11,
+      "columns": 15,
+      "sha256": "d30e8c7cb2bcdae4df616e3047557c976e803b3c14dd66ad2dd6d7ca6f9589f5",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/1su6_zfft_c49b0f2734cf.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Hospital Type",
+          "hospital_type"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Description",
+          "measure_description"
+        ],
+        [
+          "Total Cases",
+          "total_cases"
+        ],
+        [
+          "Rate",
+          "rate"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "zt3q-3e1z",
+      "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/400efdf48b2a73bfef6217d28bf082e3_1785189978/REH_Outpatient_Imaging_Efficiency-National.csv",
+      "rows": 1,
+      "columns": 6,
+      "sha256": "3d77cffff360050e8b6a18725235c92ebe7e2453bcc5e07e1cac1f638c7e979e",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/zt3q_3e1z_3c36e77b80f7.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "7peb-i4pi",
+      "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1a7240761452e8430813299b2e5b28e1_1785189976/REH_Outpatient_Imaging_Efficiency-Hospital.csv",
+      "rows": 43,
+      "columns": 14,
+      "sha256": "84871c5f9a420ac27f89bc08e2a1fc496d4a29379129bb54a683f28c1efc6a5e",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/7peb_i4pi_66c10394b0c0.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "zez1-ka2w",
+      "title": "Rural Emergency Hospital Unplanned Hospital Visits - Hospital",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/8058b83869a5ba155b84c3227e60f61c_1785189978/REH_Unplanned_Hospital_Visits-Hospital.csv",
+      "rows": 43,
+      "columns": 18,
+      "sha256": "a78703f0bf38da67b9f3dbf8da9089215478702c62e4511c7d7abcab35a33a4a",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/zez1_ka2w_ac3159c1bc53.csv",
+      "header_mapping": [
+        [
+          "Facility ID",
+          "facility_id"
+        ],
+        [
+          "Facility Name",
+          "facility_name"
+        ],
+        [
+          "Address",
+          "address"
+        ],
+        [
+          "City/Town",
+          "city_town"
+        ],
+        [
+          "State",
+          "state"
+        ],
+        [
+          "ZIP Code",
+          "zip_code"
+        ],
+        [
+          "County/Parish",
+          "county_parish"
+        ],
+        [
+          "Telephone Number",
+          "telephone_number"
+        ],
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Compared to National",
+          "compared_to_national"
+        ],
+        [
+          "Denominator",
+          "denominator"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Lower Estimate",
+          "lower_estimate"
+        ],
+        [
+          "Higher Estimate",
+          "higher_estimate"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "d2k3-k3ac",
+      "title": "Rural Emergency Hospital Timely and Effective Care - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/3e7a7fe925204d9f476690ad30ffcb28_1785189975/REH_Timely_and_Effective_Care-National.csv",
+      "rows": 8,
+      "columns": 8,
+      "sha256": "8b31ba1fc25a875bed5338f1dffcc4183d8eda63609cdc916d50b4abe46badb6",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/d2k3_k3ac_4a7f273f19bc.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Name",
+          "measure_name"
+        ],
+        [
+          "Condition",
+          "condition"
+        ],
+        [
+          "Category",
+          "category"
+        ],
+        [
+          "Score",
+          "score"
+        ],
+        [
+          "Footnote",
+          "footnote"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    },
+    {
+      "dataset_id": "4dyz-5kt1",
+      "title": "Patient Engagement PPS-Exempt Cancer Hospital - National",
+      "url": "https://data.cms.gov/provider-data/sites/default/files/resources/887d52f819864261d84b0de6ac71a65c_1785189979/PCH_Patient_Engagement_National.csv",
+      "rows": 1,
+      "columns": 5,
+      "sha256": "687639bb6756be04b03b0bb0acfd9cedbc92c63d59423f3f7ea53837f80de945",
+      "path": "/workspace/scratch/82f403396dba/cms_full_output/4dyz_5kt1_a936ccae8024.csv",
+      "header_mapping": [
+        [
+          "Measure ID",
+          "measure_id"
+        ],
+        [
+          "Measure Description",
+          "measure_description"
+        ],
+        [
+          "National Rate",
+          "national_rate"
+        ],
+        [
+          "Start Date",
+          "start_date"
+        ],
+        [
+          "End Date",
+          "end_date"
+        ]
+      ],
+      "status": "downloaded"
+    }
+  ],
+  "discovered_csv_distributions": 75,
+  "status": "success",
+  "finished_at": "2026-10-26T17:23:10.186135+00:00"
+}

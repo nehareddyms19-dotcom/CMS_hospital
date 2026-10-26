@@ -1,0 +1,388 @@
+{
+  "run_id": 2,
+  "started_at": "2026-10-26T17:23:45.992484+00:00",
+  "downloaded": 0,
+  "skipped": 75,
+  "failed": 0,
+  "sample_run": false,
+  "items": [
+    {
+      "dataset_id": "48nr-hqxx",
+      "status": "skipped",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - Facility"
+    },
+    {
+      "dataset_id": "4jcv-atw7",
+      "status": "skipped",
+      "title": "Ambulatory Surgical Center Quality Measures - Facility"
+    },
+    {
+      "dataset_id": "wue8-3vwe",
+      "status": "skipped",
+      "title": "Ambulatory Surgical Center Quality Measures - National"
+    },
+    {
+      "dataset_id": "tf3h-mrrs",
+      "status": "skipped",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - National"
+    },
+    {
+      "dataset_id": "axe7-s95e",
+      "status": "skipped",
+      "title": "Ambulatory Surgical Center Quality Measures - State"
+    },
+    {
+      "dataset_id": "x663-bwbj",
+      "status": "skipped",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for ambulatory surgical centers - State"
+    },
+    {
+      "dataset_id": "tqkv-mgxq",
+      "status": "skipped",
+      "title": "Comprehensive Care For Joint Replacement Model - Provider Data"
+    },
+    {
+      "dataset_id": "muwa-iene",
+      "status": "skipped",
+      "title": "CMS Medicare PSI-90 and component measures - six-digit estimate dataset"
+    },
+    {
+      "dataset_id": "ynj2-r877",
+      "status": "skipped",
+      "title": "Complications and Deaths - Hospital"
+    },
+    {
+      "dataset_id": "qqw3-t4ie",
+      "status": "skipped",
+      "title": "Complications and Deaths - National"
+    },
+    {
+      "dataset_id": "bs2r-24vh",
+      "status": "skipped",
+      "title": "Complications and Deaths - State"
+    },
+    {
+      "dataset_id": "y9us-9xdf",
+      "status": "skipped",
+      "title": "Footnote Crosswalk"
+    },
+    {
+      "dataset_id": "xrgf-x36b",
+      "status": "skipped",
+      "title": "Table 2: FY2024 Distribution of Net Change in Base Operating DRG Payment Amount"
+    },
+    {
+      "dataset_id": "5gv4-jwyv",
+      "status": "skipped",
+      "title": "Table 1: FY2024 Net Change in Base Operating DRG Payment Amount"
+    },
+    {
+      "dataset_id": "u625-zae7",
+      "status": "skipped",
+      "title": "Table 3: FY2024 Percent Change in Medicare Payments"
+    },
+    {
+      "dataset_id": "vtqa-m4zn",
+      "status": "skipped",
+      "title": "Table 4: FY2024 Value-Based Incentive Payment Amount"
+    },
+    {
+      "dataset_id": "dgck-syfz",
+      "status": "skipped",
+      "title": "Patient survey (HCAHPS) - Hospital"
+    },
+    {
+      "dataset_id": "99ue-w85f",
+      "status": "skipped",
+      "title": "Patient survey (HCAHPS) - National"
+    },
+    {
+      "dataset_id": "84jm-wiui",
+      "status": "skipped",
+      "title": "Patient survey (HCAHPS) - State"
+    },
+    {
+      "dataset_id": "77hc-ibv8",
+      "status": "skipped",
+      "title": "Healthcare Associated Infections - Hospital"
+    },
+    {
+      "dataset_id": "yd3s-jyhd",
+      "status": "skipped",
+      "title": "Healthcare Associated Infections - National"
+    },
+    {
+      "dataset_id": "k2ze-bqvw",
+      "status": "skipped",
+      "title": "Healthcare Associated Infections - State"
+    },
+    {
+      "dataset_id": "yizn-abxn",
+      "status": "skipped",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - Facility"
+    },
+    {
+      "dataset_id": "s5pj-hua3",
+      "status": "skipped",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - National"
+    },
+    {
+      "dataset_id": "6pfg-whmx",
+      "status": "skipped",
+      "title": "Outpatient and Ambulatory Surgery Consumer Assessment of Healthcare Providers and Systems (OAS CAHPS) survey for hospital outpatient departments - State"
+    },
+    {
+      "dataset_id": "xubh-q36u",
+      "status": "skipped",
+      "title": "Hospital General Information"
+    },
+    {
+      "dataset_id": "z8ax-x9j1",
+      "status": "skipped",
+      "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - Hospital"
+    },
+    {
+      "dataset_id": "jfnd-nl7s",
+      "status": "skipped",
+      "title": "Complications and Unplanned Hospital Visits - PPS-Exempt Cancer Hospital - National"
+    },
+    {
+      "dataset_id": "yq43-i98g",
+      "status": "skipped",
+      "title": "Hospital-Acquired Condition (HAC) Reduction Program"
+    },
+    {
+      "dataset_id": "5hk7-b79m",
+      "status": "skipped",
+      "title": "Medicare Spending Per Beneficiary - Hospital Additional Decimal Places"
+    },
+    {
+      "dataset_id": "k653-4ka8",
+      "status": "skipped",
+      "title": "Safety and Healthcare-Associated Infection Measures - PPS-Exempt Cancer Hospital"
+    },
+    {
+      "dataset_id": "iy27-wz37",
+      "status": "skipped",
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - Hospital"
+    },
+    {
+      "dataset_id": "9g7e-btyt",
+      "status": "skipped",
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - National"
+    },
+    {
+      "dataset_id": "qatj-nmws",
+      "status": "skipped",
+      "title": "Patient Survey (PCH - HCAHPS) PPS-Exempt Cancer Hospital - State"
+    },
+    {
+      "dataset_id": "9n3s-kdb3",
+      "status": "skipped",
+      "title": "Hospital Readmissions Reduction Program"
+    },
+    {
+      "dataset_id": "pudb-wetr",
+      "status": "skipped",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Clinical Outcomes Domain Scores"
+    },
+    {
+      "dataset_id": "su9h-3pvj",
+      "status": "skipped",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Efficiency Scores"
+    },
+    {
+      "dataset_id": "avtz-f2ge",
+      "status": "skipped",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Person and Community Engagement Domain Scores (HCAHPS)"
+    },
+    {
+      "dataset_id": "dgmq-aat3",
+      "status": "skipped",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Safety"
+    },
+    {
+      "dataset_id": "ypbt-wvdk",
+      "status": "skipped",
+      "title": "Hospital Value-Based Purchasing (HVBP) - Total Performance Score"
+    },
+    {
+      "dataset_id": "q9vs-r7wp",
+      "status": "skipped",
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - by Facility"
+    },
+    {
+      "dataset_id": "s5xg-sys6",
+      "status": "skipped",
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - National"
+    },
+    {
+      "dataset_id": "dc76-gh7x",
+      "status": "skipped",
+      "title": "Inpatient Psychiatric Facility Quality Measure Data - by State"
+    },
+    {
+      "dataset_id": "4j6d-yzce",
+      "status": "skipped",
+      "title": "Measure Dates"
+    },
+    {
+      "dataset_id": "nrth-mfg3",
+      "status": "skipped",
+      "title": "Medicare Hospital Spending by Claim"
+    },
+    {
+      "dataset_id": "rrqw-56er",
+      "status": "skipped",
+      "title": "Medicare Spending Per Beneficiary - Hospital"
+    },
+    {
+      "dataset_id": "3n5g-6b7f",
+      "status": "skipped",
+      "title": "Medicare Spending Per Beneficiary - National"
+    },
+    {
+      "dataset_id": "rs6n-9qwg",
+      "status": "skipped",
+      "title": "Medicare Spending Per Beneficiary - State"
+    },
+    {
+      "dataset_id": "wkfw-kthe",
+      "status": "skipped",
+      "title": "Outpatient Imaging Efficiency - Hospital"
+    },
+    {
+      "dataset_id": "di9i-zzrc",
+      "status": "skipped",
+      "title": "Outpatient Imaging Efficiency - National"
+    },
+    {
+      "dataset_id": "if5v-4x48",
+      "status": "skipped",
+      "title": "Outpatient Imaging Efficiency - State"
+    },
+    {
+      "dataset_id": "yv7e-xc69",
+      "status": "skipped",
+      "title": "Timely and Effective Care - Hospital"
+    },
+    {
+      "dataset_id": "isrn-hqyy",
+      "status": "skipped",
+      "title": "Timely and Effective Care - National"
+    },
+    {
+      "dataset_id": "apyc-v239",
+      "status": "skipped",
+      "title": "Timely and Effective Care - State"
+    },
+    {
+      "dataset_id": "632h-zaca",
+      "status": "skipped",
+      "title": "Unplanned Hospital Visits - Hospital"
+    },
+    {
+      "dataset_id": "cvcs-xecj",
+      "status": "skipped",
+      "title": "Unplanned Hospital Visits - National"
+    },
+    {
+      "dataset_id": "4gkm-5ypv",
+      "status": "skipped",
+      "title": "Unplanned Hospital Visits - State"
+    },
+    {
+      "dataset_id": "6qxe-iqz8",
+      "status": "skipped",
+      "title": "Veterans Health Administration Behavioral Health Data"
+    },
+    {
+      "dataset_id": "ptds-r8im",
+      "status": "skipped",
+      "title": "Veterans Health Administration Timely and Effective Care Data"
+    },
+    {
+      "dataset_id": "uyx4-5s7f",
+      "status": "skipped",
+      "title": "Veterans Health Administration Provider Level Data"
+    },
+    {
+      "dataset_id": "bzsr-4my4",
+      "status": "skipped",
+      "title": "Data Updates"
+    },
+    {
+      "dataset_id": "nrdb-3fcy",
+      "status": "skipped",
+      "title": "Maternal Health - Hospital"
+    },
+    {
+      "dataset_id": "mxtu-43qs",
+      "status": "skipped",
+      "title": "Patient-Reported Outcomes - Hospital"
+    },
+    {
+      "dataset_id": "qoeg-w7ck",
+      "status": "skipped",
+      "title": "Palliative Care - PPS-Exempt Cancer Hospital - Hospital"
+    },
+    {
+      "dataset_id": "qigt-w5cx",
+      "status": "skipped",
+      "title": "Palliative Care - PPS-Exempt Cancer Hospital - National"
+    },
+    {
+      "dataset_id": "f4ga-b9gx",
+      "status": "skipped",
+      "title": "Promoting Interoperability - Hospital"
+    },
+    {
+      "dataset_id": "hbf-map",
+      "status": "skipped",
+      "title": "Birthing Friendly Hospitals with Geocoded Addresses"
+    },
+    {
+      "dataset_id": "97xg-v3wv",
+      "status": "skipped",
+      "title": "Rural Emergency Hospital Timely and Effective Care - Hospital"
+    },
+    {
+      "dataset_id": "d2k3-k3ac",
+      "status": "skipped",
+      "title": "Rural Emergency Hospital Timely and Effective Care - National"
+    },
+    {
+      "dataset_id": "7peb-i4pi",
+      "status": "skipped",
+      "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - Hospital"
+    },
+    {
+      "dataset_id": "zt3q-3e1z",
+      "status": "skipped",
+      "title": "Rural Emergency Hospital Outpatient Imaging Efficiency - National"
+    },
+    {
+      "dataset_id": "zez1-ka2w",
+      "status": "skipped",
+      "title": "Rural Emergency Hospital Unplanned Hospital Visits - Hospital"
+    },
+    {
+      "dataset_id": "uk3n-au7a",
+      "status": "skipped",
+      "title": "Rural Emergency Hospital Unplanned Hospital Visits - National"
+    },
+    {
+      "dataset_id": "1su6-zfft",
+      "status": "skipped",
+      "title": "Patient Engagement PPS-Exempt Cancer Hospital - Hospital"
+    },
+    {
+      "dataset_id": "4dyz-5kt1",
+      "status": "skipped",
+      "title": "Patient Engagement PPS-Exempt Cancer Hospital - National"
+    }
+  ],
+  "discovered_csv_distributions": 75,
+  "status": "success",
+  "finished_at": "2026-10-26T17:23:50.563398+00:00"
+}
